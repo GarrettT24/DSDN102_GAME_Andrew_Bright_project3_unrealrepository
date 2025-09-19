@@ -1808,3 +1808,311 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.09.19-01.03.06:149][221]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.09.19-01.03.06:149][221]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.09.19-01.03.06:150][221]AssetCheck: /Game/WheelieBob Validating asset
+[2025.09.19-01.04.41:814][599]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.09.19-01.04.41:820][599]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.09.19-01.04.41:824][599]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.09.19-01.04.41:853][600]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.09.19-01.04.49:732][326]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2025.09.19-01.04.49:756][326]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.09.19-01.04.52:414][585]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.09.19-01.04.52:551][585]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2025.09.19-01.04.52:561][585]LogSlate: Took 0.010224 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2025.09.19-01.04.53:925][585]LogSlate: Window 'Delete Assets' being destroyed
+[2025.09.19-01.04.54:698][630]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/NewBlueprint.NewBlueprint
+[2025.09.19-01.04.54:699][630]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.09.19-01.04.54:766][630]LogStreaming: Display: FlushAsyncLoading(519): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.19-01.04.56:473][630]LogStaticMesh: Display: Building static mesh PhAT_FloorBox (Required Memory Estimate: 0.024887 MB)...
+[2025.09.19-01.04.56:474][630]LogStaticMesh: Built static mesh [0.00s] /Engine/EditorMeshes/PhAT_FloorBox.PhAT_FloorBox
+[2025.09.19-01.04.59:837][861]LogSlate: Window 'NewBlueprint' being destroyed
+[2025.09.19-01.05.45:885][294]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2025.09.19-01.06.09:377][791]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/NewBlueprint.NewBlueprint_C
+[2025.09.19-01.06.09:377][791]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/NewBlueprint.NewBlueprint_C
+[2025.09.19-01.06.09:378][791]LogActorFactory: Actor Factory spawned Blueprint /Game/NewBlueprint.NewBlueprint as actor: NewBlueprint_C /Game/WheelieBob.WheelieBob:PersistentLevel.NewBlueprint_C_0
+[2025.09.19-01.06.09:379][791]LogActorFactory: Actor Factory spawned Blueprint /Game/NewBlueprint.NewBlueprint as actor: NewBlueprint_C /Game/WheelieBob.WheelieBob:PersistentLevel.NewBlueprint_C_0
+[2025.09.19-01.06.10:865][935]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.09.19-01.06.10:867][935]LogEditorActor: Deleted 0 Actors (0.037 secs)
+[2025.09.19-01.06.10:874][935]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/NewBlueprint.NewBlueprint_C
+[2025.09.19-01.06.10:874][935]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/NewBlueprint.NewBlueprint_C
+[2025.09.19-01.06.10:877][935]LogActorFactory: Actor Factory spawned Blueprint /Game/NewBlueprint.NewBlueprint as actor: NewBlueprint_C /Game/WheelieBob.WheelieBob:PersistentLevel.NewBlueprint_C_1
+[2025.09.19-01.06.10:878][935]LogActorFactory: Actor Factory spawned Blueprint /Game/NewBlueprint.NewBlueprint as actor: NewBlueprint_C /Game/WheelieBob.WheelieBob:PersistentLevel.NewBlueprint_C_1
+[2025.09.19-01.06.12:291][ 58]Cmd: DELETE
+[2025.09.19-01.06.12:291][ 58]Cmd: ACTOR DELETE
+[2025.09.19-01.06.12:293][ 58]LogEditorActor: Deleted Actor: NewBlueprint_C
+[2025.09.19-01.06.12:316][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.09.19-01.06.12:318][ 58]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2025.09.19-01.06.18:211][671]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.09.19-01.06.19:588][671]LogSlate: Window 'Delete Assets' being destroyed
+[2025.09.19-01.06.19:676][671]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.09.19-01.06.19:676][671]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.19-01.06.19:696][671]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/NewBlueprint.NewBlueprint
+	Asset Type: Blueprint
+[2025.09.19-01.06.19:876][671]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.09.19-01.06.19:933][671]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.09.19-01.06.19:955][671]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.09.19-01.06.19:976][671]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.09.19-01.06.20:003][671]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.09.19-01.06.23:521][982]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1618.991577
+[2025.09.19-01.06.23:794][  6]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.19-01.06.23:794][  6]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1619.253540, Update Interval: 343.062225
+[2025.09.19-01.06.49:452][191]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.09.19-01.06.49:460][191]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.09.19-01.06.49:465][191]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.09.19-01.06.49:474][192]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.09.19-01.06.50:015][228]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2025.09.19-01.06.50:021][228]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.09.19-01.06.53:939][571]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/NewBlueprint.NewBlueprint
+[2025.09.19-01.06.53:939][571]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2025.09.19-01.06.56:420][733]LogSlate: Window 'NewBlueprint' being destroyed
+[2025.09.19-01.07.26:041][  6]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/NewBlueprint.NewBlueprint_C
+[2025.09.19-01.07.26:041][  6]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/NewBlueprint.NewBlueprint_C
+[2025.09.19-01.07.26:042][  6]LogActorFactory: Actor Factory spawned Blueprint /Game/NewBlueprint.NewBlueprint as actor: NewBlueprint_C /Game/WheelieBob.WheelieBob:PersistentLevel.NewBlueprint_C_2
+[2025.09.19-01.07.26:042][  6]LogActorFactory: Actor Factory spawned Blueprint /Game/NewBlueprint.NewBlueprint as actor: NewBlueprint_C /Game/WheelieBob.WheelieBob:PersistentLevel.NewBlueprint_C_2
+[2025.09.19-01.07.26:622][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.09.19-01.07.26:623][ 63]LogEditorActor: Deleted 0 Actors (0.037 secs)
+[2025.09.19-01.07.26:630][ 63]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/NewBlueprint.NewBlueprint_C
+[2025.09.19-01.07.26:630][ 63]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/NewBlueprint.NewBlueprint_C
+[2025.09.19-01.07.26:632][ 63]LogActorFactory: Actor Factory spawned Blueprint /Game/NewBlueprint.NewBlueprint as actor: NewBlueprint_C /Game/WheelieBob.WheelieBob:PersistentLevel.NewBlueprint_C_3
+[2025.09.19-01.07.26:632][ 63]LogActorFactory: Actor Factory spawned Blueprint /Game/NewBlueprint.NewBlueprint as actor: NewBlueprint_C /Game/WheelieBob.WheelieBob:PersistentLevel.NewBlueprint_C_3
+[2025.09.19-01.08.53:821][525]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.09.19-01.09.05:051][807]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.09.19-01.09.06:853][ 16]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.09.19-01.09.06:853][ 16]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.19-01.09.06:891][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.09.19-01.09.26:971][934]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.09.19-01.09.28:242][934]LogSlate: Window 'Delete Assets' being destroyed
+[2025.09.19-01.09.28:308][934]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/NewBlueprint.NewBlueprint
+	Asset Type: Blueprint
+[2025.09.19-01.09.28:521][934]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.09.19-01.09.28:576][934]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.09.19-01.09.28:597][934]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.09.19-01.09.28:618][934]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.09.19-01.11.08:877][171]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.09.19-01.11.08:885][171]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.09.19-01.11.08:893][171]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.09.19-01.11.08:923][172]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.09.19-01.11.20:370][229]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2025.09.19-01.11.20:377][229]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.09.19-01.11.32:275][365]LogContentBrowser: Attempting asset rename: NewBlueprint -> MainCharacter
+[2025.09.19-01.11.32:381][365]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.19-01.11.32:382][365]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MainCharacter] ([2] browsable assets)...
+[2025.09.19-01.11.32:382][365]OBJ SavePackage: Finished generating thumbnails for package [/Game/MainCharacter]
+[2025.09.19-01.11.32:382][365]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainCharacter" FILE="../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Content/MainCharacter.uasset" SILENT=true
+[2025.09.19-01.11.32:393][365]LogSavePackage: Moving output files for package: /Game/MainCharacter
+[2025.09.19-01.11.32:393][365]LogSavePackage: Moving '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/MainCharacterF40935994D89E8A72E3D68A82A3C5441.tmp' to '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Content/MainCharacter.uasset'
+[2025.09.19-01.11.32:397][365]LogFileHelpers: InternalPromptForCheckoutAndSave took 16.590 ms (total: 420.616 ms)
+[2025.09.19-01.11.32:434][365]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.09.19-01.11.32:458][365]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.09.19-01.11.32:478][365]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.09.19-01.11.32:537][365]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.19-01.11.32:537][365]LogContentValidation: Enabled validators:
+[2025.09.19-01.11.32:537][365]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.19-01.11.32:537][365]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.19-01.11.32:537][365]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.19-01.11.32:537][365]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.19-01.11.32:537][365]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.19-01.11.32:537][365]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.19-01.11.32:537][365]AssetCheck: /Game/MainCharacter Validating asset
+[2025.09.19-01.11.32:573][365]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/SourceControl/UncontrolledChangelists.json
+[2025.09.19-01.11.36:035][726]LogContentBrowser: Attempting asset rename: MainCharacter -> MainCharacter
+[2025.09.19-01.11.45:285][583]LogContentBrowser: Attempting asset rename: MainCharacter -> 2DMainCharacter
+[2025.09.19-01.11.45:368][583]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.19-01.11.45:369][583]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DMainCharacter] ([2] browsable assets)...
+[2025.09.19-01.11.45:369][583]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DMainCharacter]
+[2025.09.19-01.11.45:369][583]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DMainCharacter" FILE="../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Content/2DMainCharacter.uasset" SILENT=true
+[2025.09.19-01.11.45:381][583]LogSavePackage: Moving output files for package: /Game/2DMainCharacter
+[2025.09.19-01.11.45:381][583]LogSavePackage: Moving '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/2DMainCharacterF45360E441A36CE5106070A232343E41.tmp' to '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Content/2DMainCharacter.uasset'
+[2025.09.19-01.11.45:385][583]LogFileHelpers: InternalPromptForCheckoutAndSave took 16.583 ms (total: 437.199 ms)
+[2025.09.19-01.11.45:422][583]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.09.19-01.11.45:444][583]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.09.19-01.11.45:465][583]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.09.19-01.11.45:508][583]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.19-01.11.45:508][583]LogContentValidation: Enabled validators:
+[2025.09.19-01.11.45:508][583]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.19-01.11.45:508][583]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.19-01.11.45:508][583]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.19-01.11.45:508][583]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.19-01.11.45:508][583]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.19-01.11.45:508][583]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.19-01.11.45:508][583]AssetCheck: /Game/2DMainCharacter Validating asset
+[2025.09.19-01.11.45:539][583]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/SourceControl/UncontrolledChangelists.json
+[2025.09.19-01.11.47:155][735]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/2DMainCharacter.2DMainCharacter
+[2025.09.19-01.11.47:155][735]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2025.09.19-01.12.02:281][681]LogSlate: Window '2DMainCharacter' being destroyed
+[2025.09.19-01.12.09:372][  1]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.09.19-01.12.09:378][  1]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.09.19-01.12.09:385][  1]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.09.19-01.12.09:398][  2]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.09.19-01.12.11:082][140]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2025.09.19-01.12.11:085][140]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.09.19-01.12.14:300][409]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/NewBlueprint.NewBlueprint
+[2025.09.19-01.12.14:300][409]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2025.09.19-01.12.17:051][682]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.09.19-01.12.17:051][682]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.19-01.12.17:113][682]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.09.19-01.12.30:533][958]LogContentBrowser: Attempting asset rename: NewBlueprint -> 2DMainController
+[2025.09.19-01.12.30:646][958]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.19-01.12.30:647][958]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DMainController] ([2] browsable assets)...
+[2025.09.19-01.12.30:647][958]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DMainController]
+[2025.09.19-01.12.30:647][958]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DMainController" FILE="../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Content/2DMainController.uasset" SILENT=true
+[2025.09.19-01.12.30:657][958]LogSavePackage: Moving output files for package: /Game/2DMainController
+[2025.09.19-01.12.30:657][958]LogSavePackage: Moving '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/2DMainController560BD2B54B9F755B6DA4A1B21BC78BFA.tmp' to '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Content/2DMainController.uasset'
+[2025.09.19-01.12.30:662][958]LogFileHelpers: InternalPromptForCheckoutAndSave took 15.469 ms (total: 452.669 ms)
+[2025.09.19-01.12.30:698][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.09.19-01.12.30:719][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.09.19-01.12.30:741][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.09.19-01.12.30:807][958]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.19-01.12.30:807][958]LogContentValidation: Enabled validators:
+[2025.09.19-01.12.30:807][958]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.19-01.12.30:807][958]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.19-01.12.30:807][958]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.19-01.12.30:807][958]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.19-01.12.30:807][958]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.19-01.12.30:807][958]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.19-01.12.30:807][958]AssetCheck: /Game/2DMainController Validating asset
+[2025.09.19-01.12.30:839][958]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/SourceControl/UncontrolledChangelists.json
+[2025.09.19-01.12.35:951][305]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.09.19-01.12.35:957][305]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.09.19-01.12.35:963][305]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.09.19-01.12.35:975][306]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.09.19-01.12.54:754][ 65]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2010.166992
+[2025.09.19-01.12.55:032][ 91]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.19-01.12.55:032][ 91]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2010.432861, Update Interval: 347.900024
+[2025.09.19-01.12.57:341][309]LogContentBrowser: Attempting asset rename: NewBlueprint -> 2DGameMode
+[2025.09.19-01.12.57:347][309]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.09.19-01.12.58:917][436]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/2DGameMode.2DGameMode
+[2025.09.19-01.12.58:917][436]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2025.09.19-01.13.04:335][892]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/2DMainController.2DMainController
+[2025.09.19-01.13.04:335][892]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2025.09.19-01.13.15:457][152]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.09.19-01.13.15:457][152]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.19-01.13.15:521][152]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.09.19-01.13.16:251][235]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.09.19-01.13.16:251][235]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.09.19-01.13.16:251][235]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.19-01.13.16:291][235]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.09.19-01.13.18:817][532]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.09.19-01.13.18:817][532]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.09.19-01.13.18:817][532]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.19-01.13.18:864][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.09.19-01.13.33:047][899]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.09.19-01.13.33:054][899]LogContentBrowser: Creating deferred item: NewFolder
+[2025.09.19-01.13.33:065][900]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.09.19-01.13.37:342][296]LogContentBrowser: Attempting asset rename: NewFolder -> lipBooks
+[2025.09.19-01.13.37:342][296]LogContentBrowser: End creating deferred item NewFolder
+[2025.09.19-01.13.43:213][866]LogContentBrowser: Attempting asset rename: lipBooks -> FlipBooks
+[2025.09.19-01.13.49:899][508]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.19-01.13.49:899][508]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FlipBooks/idle1] ([1] browsable assets)...
+[2025.09.19-01.13.49:900][508]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/FlipBooks/idle1.idle1]
+[2025.09.19-01.13.49:900][508]OBJ SavePackage: Finished generating thumbnails for package [/Game/FlipBooks/idle1]
+[2025.09.19-01.13.49:900][508]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FlipBooks/idle1" FILE="../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Content/FlipBooks/idle1.uasset" SILENT=true
+[2025.09.19-01.13.49:911][508]LogSavePackage: Moving output files for package: /Game/FlipBooks/idle1
+[2025.09.19-01.13.49:911][508]LogSavePackage: Moving '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/idle13F63E92741168A5C3B359EACDAC1ED60.tmp' to '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Content/FlipBooks/idle1.uasset'
+[2025.09.19-01.13.49:914][508]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FlipBooks/run1] ([1] browsable assets)...
+[2025.09.19-01.13.49:915][508]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/FlipBooks/run1.run1]
+[2025.09.19-01.13.49:915][508]OBJ SavePackage: Finished generating thumbnails for package [/Game/FlipBooks/run1]
+[2025.09.19-01.13.49:915][508]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FlipBooks/run1" FILE="../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Content/FlipBooks/run1.uasset" SILENT=true
+[2025.09.19-01.13.49:923][508]LogSavePackage: Moving output files for package: /Game/FlipBooks/run1
+[2025.09.19-01.13.49:923][508]LogSavePackage: Moving '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/run116018BFD43D3770944564D91A13668E9.tmp' to '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Content/FlipBooks/run1.uasset'
+[2025.09.19-01.13.49:924][508]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FlipBooks/wheelie1] ([1] browsable assets)...
+[2025.09.19-01.13.49:926][508]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/FlipBooks/wheelie1.wheelie1]
+[2025.09.19-01.13.49:926][508]OBJ SavePackage: Finished generating thumbnails for package [/Game/FlipBooks/wheelie1]
+[2025.09.19-01.13.49:926][508]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FlipBooks/wheelie1" FILE="../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Content/FlipBooks/wheelie1.uasset" SILENT=true
+[2025.09.19-01.13.49:934][508]LogSavePackage: Moving output files for package: /Game/FlipBooks/wheelie1
+[2025.09.19-01.13.49:934][508]LogSavePackage: Moving '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/wheelie19D0388344E6306530BE35BA10D6A69EF.tmp' to '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Content/FlipBooks/wheelie1.uasset'
+[2025.09.19-01.13.49:935][508]LogFileHelpers: InternalPromptForCheckoutAndSave took 36.239 ms (total: 488.908 ms)
+[2025.09.19-01.13.50:011][508]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.09.19-01.13.50:033][508]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.09.19-01.13.50:054][508]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.09.19-01.13.50:070][508]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.09.19-01.13.50:070][508]LogContentValidation: Display: Starting to validate 3 assets
+[2025.09.19-01.13.50:070][508]LogContentValidation: Enabled validators:
+[2025.09.19-01.13.50:070][508]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.19-01.13.50:070][508]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.19-01.13.50:070][508]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.19-01.13.50:070][508]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.19-01.13.50:070][508]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.19-01.13.50:070][508]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.19-01.13.50:070][508]AssetCheck: /Game/FlipBooks/idle1 Validating asset
+[2025.09.19-01.13.50:070][508]AssetCheck: /Game/FlipBooks/run1 Validating asset
+[2025.09.19-01.13.50:070][508]AssetCheck: /Game/FlipBooks/wheelie1 Validating asset
+[2025.09.19-01.13.50:079][508]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/SourceControl/UncontrolledChangelists.json
+[2025.09.19-01.14.04:303][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.09.19-01.14.05:421][ 27]LogSlate: Window 'Delete Assets' being destroyed
+[2025.09.19-01.14.05:448][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.09.19-01.14.05:467][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.09.19-01.14.05:488][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.09.19-01.14.09:972][410]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.09.19-01.14.11:090][410]LogSlate: Window 'Delete Assets' being destroyed
+[2025.09.19-01.14.11:119][410]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.09.19-01.14.11:141][410]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.09.19-01.14.11:161][410]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.09.19-01.14.14:573][726]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.09.19-01.14.15:757][726]LogSlate: Window 'Delete Assets' being destroyed
+[2025.09.19-01.14.15:787][726]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.09.19-01.14.15:809][726]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.09.19-01.14.15:830][726]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.09.19-01.14.22:123][280]LogSlate: External Image Picker: DecompressImage failed
+[2025.09.19-01.15.29:161][990]LogShaderCompilers: Display: ================================================
+[2025.09.19-01.15.29:161][990]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.09.19-01.15.29:161][990]LogShaderCompilers: Display: Total job queries 2,495, among them cache hits 577 (23.13%), DDC hits 1,377 (55.19%), Duplicates 154 (6.17%)
+[2025.09.19-01.15.29:161][990]LogShaderCompilers: Display: Tracking 1,764 distinct input hashes that result in 1,111 distinct outputs (62.98%)
+[2025.09.19-01.15.29:161][990]LogShaderCompilers: Display: RAM used: 11.01 MiB of 1.60 GiB budget. Usage: 0.67%
+[2025.09.19-01.15.29:161][990]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.09.19-01.15.29:161][990]LogShaderCompilers: Display: Shaders Compiled: 387
+[2025.09.19-01.15.29:161][990]LogShaderCompilers: Display: Jobs assigned 387, completed 387 (100%)
+[2025.09.19-01.15.29:161][990]LogShaderCompilers: Display: Average time worker was idle: 75.88 s
+[2025.09.19-01.15.29:161][990]LogShaderCompilers: Display: Time job spent in pending queue: average 2.25 s, longest 8.52 s
+[2025.09.19-01.15.29:161][990]LogShaderCompilers: Display: Job execution time: average 2.23 s, max 5.59 s
+[2025.09.19-01.15.29:161][990]LogShaderCompilers: Display: Job life time (pending + execution): average 4.48 s, max 9.13
+[2025.09.19-01.15.29:161][990]LogShaderCompilers: Display: Shader code size: total 3.578 MiB, numShaders 410, average 8.938 KiB, min 2.246 KiB, max 33.121 KiB
+[2025.09.19-01.15.29:161][990]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 22.49 s
+[2025.09.19-01.15.29:161][990]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.15%
+[2025.09.19-01.15.29:161][990]LogShaderCompilers: Display: Jobs were issued in 121 batches (only local compilation was used), average 3.20 jobs/batch
+[2025.09.19-01.15.29:161][990]LogShaderCompilers: Display: Average processing rate: 17.21 jobs/sec
+[2025.09.19-01.15.29:161][990]LogShaderCompilers: Display: Total thread time: 140.811 s
+[2025.09.19-01.15.29:161][990]LogShaderCompilers: Display: Total thread preprocess time: 30.032 s
+[2025.09.19-01.15.29:161][990]LogShaderCompilers: Display: Percentage time preprocessing: 21.33%
+[2025.09.19-01.15.29:161][990]LogShaderCompilers: Display: Effective parallelization: 6.26 (times faster than compiling all shaders on one thread). Compare with number of workers: 10 - 0.626192
+[2025.09.19-01.15.29:161][990]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.09.19-01.15.29:161][990]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    1 times, average 1.72 sec, max 1.72 sec, min 1.72 sec)
+[2025.09.19-01.15.29:161][990]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 1.65 sec, max 1.65 sec, min 1.65 sec)
+[2025.09.19-01.15.29:161][990]LogShaderCompilers: Display:                                 TVirtualTexturePSWorldHeight (compiled    2 times, average 0.85 sec, max 0.92 sec, min 0.79 sec)
+[2025.09.19-01.15.29:161][990]LogShaderCompilers: Display:                                TVirtualTexturePSDisplacement (compiled    2 times, average 0.78 sec, max 0.84 sec, min 0.73 sec)
+[2025.09.19-01.15.29:161][990]LogShaderCompilers: Display:                     TVirtualTexturePSBaseColorNormalSpecular (compiled    2 times, average 0.78 sec, max 0.80 sec, min 0.76 sec)
+[2025.09.19-01.15.29:161][990]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.09.19-01.15.29:161][990]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 14.45% of total time (compiled   48 times, average 0.42 sec, max 0.85 sec, min 0.23 sec)
+[2025.09.19-01.15.29:161][990]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 9.70% of total time (compiled   53 times, average 0.26 sec, max 0.59 sec, min 0.13 sec)
+[2025.09.19-01.15.29:161][990]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 8.95% of total time (compiled   29 times, average 0.43 sec, max 0.89 sec, min 0.24 sec)
+[2025.09.19-01.15.29:161][990]LogShaderCompilers: Display:                                             FDebugViewModeVS - 7.98% of total time (compiled   45 times, average 0.25 sec, max 0.60 sec, min 0.12 sec)
+[2025.09.19-01.15.29:161][990]LogShaderCompilers: Display:                                                  FVelocityPS - 7.83% of total time (compiled   23 times, average 0.48 sec, max 0.59 sec, min 0.33 sec)
+[2025.09.19-01.15.29:161][990]LogShaderCompilers: Display: === Material stats ===
+[2025.09.19-01.15.29:161][990]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.09.19-01.15.29:161][990]LogShaderCompilers: Display: Materials Translated:    146
+[2025.09.19-01.15.29:161][990]LogShaderCompilers: Display: Material Total Translate Time: 0.10 s
+[2025.09.19-01.15.29:161][990]LogShaderCompilers: Display: Material Translation Only: 0.04 s (37%)
+[2025.09.19-01.15.29:161][990]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.09.19-01.15.29:161][990]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.09.19-01.15.29:161][990]LogShaderCompilers: Display: ================================================
+[2025.09.19-01.15.52:578][993]LogSlate: Window 'Project Settings' being destroyed
+[2025.09.19-01.15.52:586][993]LogSlate: Window 'Project Settings' being destroyed
+[2025.09.19-01.16.00:282][703]LogSlate: External Image Picker: DecompressImage failed
+[2025.09.19-01.16.11:963][590]LogSlate: Window 'Project Settings' being destroyed
+[2025.09.19-01.16.11:971][590]LogSlate: Window 'Project Settings' being destroyed
+[2025.09.19-01.16.15:485][931]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.19-01.16.15:530][931]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WheelieBob" FILE="../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Content/WheelieBob.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.09.19-01.16.15:563][931]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.09.19-01.16.15:579][931]LogSavePackage: Moving output files for package: /Game/WheelieBob
+[2025.09.19-01.16.15:579][931]LogSavePackage: Moving '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/WheelieBob1F9DF94549A0BDD2BD45ECADB824FAB6.tmp' to '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Content/WheelieBob.umap'
+[2025.09.19-01.16.15:586][931]LogFileHelpers: Saving map 'WheelieBob' took 0.056
+[2025.09.19-01.16.15:594][931]LogFileHelpers: InternalPromptForCheckoutAndSave took 109.002 ms (total: 597.911 ms)
+[2025.09.19-01.16.15:649][931]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.19-01.16.15:649][931]LogContentValidation: Enabled validators:
+[2025.09.19-01.16.15:649][931]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.19-01.16.15:649][931]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.19-01.16.15:649][931]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.19-01.16.15:649][931]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.19-01.16.15:649][931]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.19-01.16.15:649][931]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.19-01.16.15:649][931]AssetCheck: /Game/WheelieBob Validating asset

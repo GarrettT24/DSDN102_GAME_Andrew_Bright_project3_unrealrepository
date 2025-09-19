@@ -33,7 +33,13 @@
 				"C:/DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Content/IdleSprites/idle_Sprite_1.uasset",
 				"C:/DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Content/IdleSprites/idle_Sprite_0.uasset",
 				"C:/DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Content/IdleSprites/idle1.uasset",
-				"C:/DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Content/IdleSprites/idle.uasset"
+				"C:/DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Content/IdleSprites/idle.uasset",
+				"C:/DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Content/MainCharacter.uasset",
+				"C:/DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Content/2DMainCharacter.uasset",
+				"C:/DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Content/2DMainController.uasset",
+				"C:/DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Content/FlipBooks/idle1.uasset",
+				"C:/DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Content/FlipBooks/run1.uasset",
+				"C:/DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Content/FlipBooks/wheelie1.uasset"
 			]
 		}
 	]
