@@ -2116,3 +2116,826 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.09.19-01.16.15:649][931]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.09.19-01.16.15:649][931]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.09.19-01.16.15:649][931]AssetCheck: /Game/WheelieBob Validating asset
+[2025.09.19-01.19.42:405][335]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2417.744141
+[2025.09.19-01.19.42:658][358]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.19-01.19.42:658][358]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2417.984863, Update Interval: 313.235260
+[2025.09.19-01.21.59:428][818]LogSlate: External Image Picker: DecompressImage failed
+[2025.09.19-01.24.03:457][955]LogSlate: Window 'Project Settings' being destroyed
+[2025.09.19-01.24.03:465][955]LogSlate: Window 'Project Settings' being destroyed
+[2025.09.19-01.24.18:514][323]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/2DMainCharacter.2DMainCharacter
+[2025.09.19-01.24.18:515][323]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2025.09.19-01.24.24:690][  9]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.09.19-01.24.24:690][  9]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.19-01.24.24:705][  9]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/2DMainCharacter.2DMainCharacter
+[2025.09.19-01.24.24:705][  9]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2025.09.19-01.24.25:051][  9]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.09.19-01.24.44:814][302]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2025.09.19-01.24.53:577][303]LogStreaming: Display: FlushAsyncLoading(716): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.19-01.25.25:850][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.09.19-01.25.33:339][933]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.19-01.25.33:374][933]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/2DMainCharacter] ([2] browsable assets)...
+[2025.09.19-01.25.33:407][933]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/2DMainCharacter.2DMainCharacter]
+[2025.09.19-01.25.33:407][933]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DMainCharacter]
+[2025.09.19-01.25.33:407][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DMainCharacter" FILE="../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Content/2DMainCharacter.uasset" SILENT=true
+[2025.09.19-01.25.33:418][933]LogSavePackage: Moving output files for package: /Game/2DMainCharacter
+[2025.09.19-01.25.33:418][933]LogSavePackage: Moving '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/2DMainCharacterA5C2DF4A4E11C4DE0CD30A9E3A9B0DE2.tmp' to '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Content/2DMainCharacter.uasset'
+[2025.09.19-01.25.33:424][933]LogFileHelpers: InternalPromptForCheckoutAndSave took 84.967 ms (total: 682.878 ms)
+[2025.09.19-01.25.33:473][933]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.19-01.25.33:473][933]LogContentValidation: Enabled validators:
+[2025.09.19-01.25.33:473][933]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.19-01.25.33:473][933]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.19-01.25.33:473][933]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.19-01.25.33:473][933]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.19-01.25.33:473][933]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.19-01.25.33:473][933]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.19-01.25.33:473][933]AssetCheck: /Game/2DMainCharacter Validating asset
+[2025.09.19-01.25.34:484][ 40]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2769.827148
+[2025.09.19-01.25.34:740][ 60]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.19-01.25.34:740][ 60]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2770.070068, Update Interval: 345.783264
+[2025.09.19-01.25.35:916][166]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.19-01.25.35:934][166]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.19-01.25.35:940][166]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.09.19-01.25.35:940][166]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.09.19-01.25.35:940][166]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_WheelieBob
+[2025.09.19-01.25.35:941][166]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001690s)
+[2025.09.19-01.25.35:941][166]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WheelieBob.WheelieBob to /Game/UEDPIE_0_WheelieBob.WheelieBob (0.001737s)
+[2025.09.19-01.25.35:964][166]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.09.19-01.25.35:968][166]LogChaosDD: Creating Chaos Debug Draw Scene for world WheelieBob
+[2025.09.19-01.25.35:970][166]LogPlayLevel: PIE: World Init took: (0.001523s)
+[2025.09.19-01.25.35:970][166]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.09.19-01.25.35:971][166]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.19-01.25.35:971][166]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.19-01.25.35:971][166]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.19-01.25.35:971][166]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.19-01.25.35:971][166]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.19-01.25.35:971][166]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.19-01.25.35:971][166]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.19-01.25.35:971][166]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.19-01.25.35:971][166]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.19-01.25.35:971][166]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.19-01.25.35:971][166]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.19-01.25.35:971][166]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.19-01.25.36:027][166]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.09.19-01.25.36:027][166]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.19-01.25.36:027][166]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.19-01.25.36:027][166]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.19-01.25.36:029][166]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.09.19-01.25.36:029][166]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.09.19-01.25.36:030][166]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.09.19-01.25.36:030][166]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.09.19-01.25.36:030][166]LogInit: FAudioDevice initialized with ID 2.
+[2025.09.19-01.25.36:030][166]LogAudio: Display: Audio Device (ID: 2) registered with world 'WheelieBob'.
+[2025.09.19-01.25.36:030][166]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.09.19-01.25.36:046][166]LogLoad: Game class is '2DGameMode_C'
+[2025.09.19-01.25.36:048][166]LogWorld: Bringing World /Game/UEDPIE_0_WheelieBob.WheelieBob up for play (max tick rate 0) at 2025.09.19-13.25.36
+[2025.09.19-01.25.36:048][166]LogWorld: Bringing up level for play took: 0.000686
+[2025.09.19-01.25.36:050][166]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2025.09.19-01.25.36:057][166]PIE: Server logged in
+[2025.09.19-01.25.36:059][166]PIE: Play in editor total start time 0.139 seconds.
+[2025.09.19-01.25.55:350][948]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.19-01.25.55:350][948]LogWorld: BeginTearingDown for /Game/UEDPIE_0_WheelieBob
+[2025.09.19-01.25.55:350][948]LogWorld: UWorld::CleanupWorld for WheelieBob, bSessionEnded=true, bCleanupResources=true
+[2025.09.19-01.25.55:350][948]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.19-01.25.55:352][948]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.19-01.25.55:356][948]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.19-01.25.55:381][948]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.19-01.25.55:381][948]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.09.19-01.25.55:381][948]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=4
+[2025.09.19-01.25.55:383][948]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=2
+[2025.09.19-01.25.55:390][948]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.09.19-01.25.55:493][949]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2025.09.19-01.26.24:760][649]LogSlate: External Image Picker: DecompressImage failed
+[2025.09.19-01.26.59:368][466]LogSlate: Window 'Project Settings' being destroyed
+[2025.09.19-01.26.59:375][466]LogSlate: Window 'Project Settings' being destroyed
+[2025.09.19-01.27.29:226][690]LogShaderCompilers: Display: ================================================
+[2025.09.19-01.27.29:226][690]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.09.19-01.27.29:226][690]LogShaderCompilers: Display: Total job queries 2,510, among them cache hits 582 (23.19%), DDC hits 1,381 (55.02%), Duplicates 154 (6.14%)
+[2025.09.19-01.27.29:226][690]LogShaderCompilers: Display: Tracking 1,774 distinct input hashes that result in 1,118 distinct outputs (63.02%)
+[2025.09.19-01.27.29:226][690]LogShaderCompilers: Display: RAM used: 11.05 MiB of 1.60 GiB budget. Usage: 0.67%
+[2025.09.19-01.27.29:226][690]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.09.19-01.27.29:226][690]LogShaderCompilers: Display: Shaders Compiled: 393
+[2025.09.19-01.27.29:226][690]LogShaderCompilers: Display: Jobs assigned 393, completed 393 (100%)
+[2025.09.19-01.27.29:226][690]LogShaderCompilers: Display: Average time worker was idle: 117.52 s
+[2025.09.19-01.27.29:226][690]LogShaderCompilers: Display: Time job spent in pending queue: average 2.22 s, longest 8.52 s
+[2025.09.19-01.27.29:226][690]LogShaderCompilers: Display: Job execution time: average 2.20 s, max 5.59 s
+[2025.09.19-01.27.29:226][690]LogShaderCompilers: Display: Job life time (pending + execution): average 4.42 s, max 9.13
+[2025.09.19-01.27.29:226][690]LogShaderCompilers: Display: Shader code size: total 3.62 MiB, numShaders 416, average 8.911 KiB, min 2.246 KiB, max 33.121 KiB
+[2025.09.19-01.27.29:226][690]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 24.04 s
+[2025.09.19-01.27.29:226][690]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.15%
+[2025.09.19-01.27.29:226][690]LogShaderCompilers: Display: Jobs were issued in 127 batches (only local compilation was used), average 3.09 jobs/batch
+[2025.09.19-01.27.29:226][690]LogShaderCompilers: Display: Average processing rate: 16.34 jobs/sec
+[2025.09.19-01.27.29:226][690]LogShaderCompilers: Display: Total thread time: 142.512 s
+[2025.09.19-01.27.29:226][690]LogShaderCompilers: Display: Total thread preprocess time: 30.218 s
+[2025.09.19-01.27.29:226][690]LogShaderCompilers: Display: Percentage time preprocessing: 21.20%
+[2025.09.19-01.27.29:226][690]LogShaderCompilers: Display: Effective parallelization: 5.93 (times faster than compiling all shaders on one thread). Compare with number of workers: 10 - 0.592698
+[2025.09.19-01.27.29:226][690]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.09.19-01.27.29:226][690]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    1 times, average 1.72 sec, max 1.72 sec, min 1.72 sec)
+[2025.09.19-01.27.29:226][690]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 1.65 sec, max 1.65 sec, min 1.65 sec)
+[2025.09.19-01.27.29:226][690]LogShaderCompilers: Display:                                 TVirtualTexturePSWorldHeight (compiled    2 times, average 0.85 sec, max 0.92 sec, min 0.79 sec)
+[2025.09.19-01.27.29:226][690]LogShaderCompilers: Display:                                TVirtualTexturePSDisplacement (compiled    2 times, average 0.78 sec, max 0.84 sec, min 0.73 sec)
+[2025.09.19-01.27.29:226][690]LogShaderCompilers: Display:                     TVirtualTexturePSBaseColorNormalSpecular (compiled    2 times, average 0.78 sec, max 0.80 sec, min 0.76 sec)
+[2025.09.19-01.27.29:226][690]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.09.19-01.27.29:226][690]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 14.97% of total time (compiled   51 times, average 0.42 sec, max 0.85 sec, min 0.23 sec)
+[2025.09.19-01.27.29:226][690]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 9.91% of total time (compiled   55 times, average 0.26 sec, max 0.59 sec, min 0.13 sec)
+[2025.09.19-01.27.29:226][690]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 8.84% of total time (compiled   29 times, average 0.43 sec, max 0.89 sec, min 0.24 sec)
+[2025.09.19-01.27.29:226][690]LogShaderCompilers: Display:                                             FDebugViewModeVS - 7.88% of total time (compiled   45 times, average 0.25 sec, max 0.60 sec, min 0.12 sec)
+[2025.09.19-01.27.29:226][690]LogShaderCompilers: Display:                                                  FVelocityPS - 7.73% of total time (compiled   23 times, average 0.48 sec, max 0.59 sec, min 0.33 sec)
+[2025.09.19-01.27.29:226][690]LogShaderCompilers: Display: === Material stats ===
+[2025.09.19-01.27.29:226][690]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.09.19-01.27.29:226][690]LogShaderCompilers: Display: Materials Translated:    147
+[2025.09.19-01.27.29:226][690]LogShaderCompilers: Display: Material Total Translate Time: 0.10 s
+[2025.09.19-01.27.29:226][690]LogShaderCompilers: Display: Material Translation Only: 0.04 s (36%)
+[2025.09.19-01.27.29:226][690]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.09.19-01.27.29:226][690]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.09.19-01.27.29:226][690]LogShaderCompilers: Display: ================================================
+[2025.09.19-01.27.58:779][104]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.19-01.27.58:785][104]LogPlayLevel: [PlayLevel] Compiling 2DMainCharacter before play...
+[2025.09.19-01.27.58:831][104]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.09.19-01.27.58:832][104]LogPlayLevel: PlayLevel: Blueprint regeneration took 48 ms (1 blueprints)
+[2025.09.19-01.27.58:832][104]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_WheelieBob
+[2025.09.19-01.27.58:834][104]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001618s)
+[2025.09.19-01.27.58:834][104]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WheelieBob.WheelieBob to /Game/UEDPIE_0_WheelieBob.WheelieBob (0.001645s)
+[2025.09.19-01.27.58:855][104]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.09.19-01.27.58:856][104]LogChaosDD: Creating Chaos Debug Draw Scene for world WheelieBob
+[2025.09.19-01.27.58:857][104]LogPlayLevel: PIE: World Init took: (0.001455s)
+[2025.09.19-01.27.58:858][104]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.09.19-01.27.58:858][104]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.19-01.27.58:858][104]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.19-01.27.58:858][104]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.19-01.27.58:858][104]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.19-01.27.58:858][104]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.19-01.27.58:858][104]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.19-01.27.58:858][104]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.19-01.27.58:858][104]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.19-01.27.58:858][104]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.19-01.27.58:858][104]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.19-01.27.58:858][104]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.19-01.27.58:860][104]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.19-01.27.58:913][104]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.09.19-01.27.58:913][104]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.19-01.27.58:913][104]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.19-01.27.58:913][104]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.19-01.27.58:914][104]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.09.19-01.27.58:914][104]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.09.19-01.27.58:916][104]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.09.19-01.27.58:916][104]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.09.19-01.27.58:916][104]LogInit: FAudioDevice initialized with ID 3.
+[2025.09.19-01.27.58:916][104]LogAudio: Display: Audio Device (ID: 3) registered with world 'WheelieBob'.
+[2025.09.19-01.27.58:916][104]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.09.19-01.27.58:919][104]LogLoad: Game class is '2DGameMode_C'
+[2025.09.19-01.27.58:920][104]LogWorld: Bringing World /Game/UEDPIE_0_WheelieBob.WheelieBob up for play (max tick rate 0) at 2025.09.19-13.27.58
+[2025.09.19-01.27.58:920][104]LogWorld: Bringing up level for play took: 0.000608
+[2025.09.19-01.27.58:923][104]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2025.09.19-01.27.58:934][104]LogBlueprintUserMessages: [2DMainCharacter_C_0] Hello
+[2025.09.19-01.27.58:935][104]PIE: Server logged in
+[2025.09.19-01.27.58:937][104]PIE: Play in editor total start time 0.152 seconds.
+[2025.09.19-01.28.19:148][945]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.19-01.28.19:148][945]LogWorld: BeginTearingDown for /Game/UEDPIE_0_WheelieBob
+[2025.09.19-01.28.19:148][945]LogWorld: UWorld::CleanupWorld for WheelieBob, bSessionEnded=true, bCleanupResources=true
+[2025.09.19-01.28.19:148][945]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.19-01.28.19:149][945]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.19-01.28.19:153][945]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.19-01.28.19:172][945]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.19-01.28.19:172][945]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.09.19-01.28.19:172][945]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=4
+[2025.09.19-01.28.19:174][945]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=2
+[2025.09.19-01.28.19:180][945]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.09.19-01.28.19:238][946]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2025.09.19-01.28.54:191][916]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.09.19-01.28.54:194][916]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/WheelieBob' took 0.026
+[2025.09.19-01.28.54:194][916]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/2DMainCharacter] ([2] browsable assets)...
+[2025.09.19-01.28.54:238][916]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/2DMainCharacter.2DMainCharacter]
+[2025.09.19-01.28.54:238][916]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DMainCharacter]
+[2025.09.19-01.28.54:250][916]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/2DMainCharacter_Auto2
+[2025.09.19-01.28.54:250][916]LogSavePackage: Moving '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/2DMainCharacter_Auto223452FE849F90C47B9F38AABCE3CBC10.tmp' to '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/Autosaves/Game/2DMainCharacter_Auto2.uasset'
+[2025.09.19-01.28.54:251][916]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RunSprites/run] ([1] browsable assets)...
+[2025.09.19-01.28.54:253][916]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/RunSprites/run.run]
+[2025.09.19-01.28.54:253][916]OBJ SavePackage: Finished generating thumbnails for package [/Game/RunSprites/run]
+[2025.09.19-01.28.54:268][916]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/RunSprites/run_Auto2
+[2025.09.19-01.28.54:268][916]LogSavePackage: Moving '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/run_Auto2D967AC5148706E6205805EBBD4A59F40.tmp' to '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/Autosaves/Game/RunSprites/run_Auto2.uasset'
+[2025.09.19-01.28.54:269][916]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RunSprites/run_Sprite_0] ([1] browsable assets)...
+[2025.09.19-01.28.54:270][916]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/RunSprites/run_Sprite_0.run_Sprite_0]
+[2025.09.19-01.28.54:270][916]OBJ SavePackage: Finished generating thumbnails for package [/Game/RunSprites/run_Sprite_0]
+[2025.09.19-01.28.54:280][916]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/RunSprites/run_Sprite_0_Auto2
+[2025.09.19-01.28.54:280][916]LogSavePackage: Moving '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/run_Sprite_0_Auto244480D884202ACFBD5EBD784545DF6EC.tmp' to '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/Autosaves/Game/RunSprites/run_Sprite_0_Auto2.uasset'
+[2025.09.19-01.28.54:280][916]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RunSprites/run_Sprite_1] ([1] browsable assets)...
+[2025.09.19-01.28.54:282][916]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/RunSprites/run_Sprite_1.run_Sprite_1]
+[2025.09.19-01.28.54:282][916]OBJ SavePackage: Finished generating thumbnails for package [/Game/RunSprites/run_Sprite_1]
+[2025.09.19-01.28.54:289][916]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/RunSprites/run_Sprite_1_Auto2
+[2025.09.19-01.28.54:289][916]LogSavePackage: Moving '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/run_Sprite_1_Auto26F72EFEE47FBCC968276488F624AC866.tmp' to '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/Autosaves/Game/RunSprites/run_Sprite_1_Auto2.uasset'
+[2025.09.19-01.28.54:290][916]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RunSprites/run_Sprite_2] ([1] browsable assets)...
+[2025.09.19-01.28.54:292][916]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/RunSprites/run_Sprite_2.run_Sprite_2]
+[2025.09.19-01.28.54:292][916]OBJ SavePackage: Finished generating thumbnails for package [/Game/RunSprites/run_Sprite_2]
+[2025.09.19-01.28.54:300][916]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/RunSprites/run_Sprite_2_Auto2
+[2025.09.19-01.28.54:300][916]LogSavePackage: Moving '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/run_Sprite_2_Auto2902932CE4B73A81AF206899CF939A14D.tmp' to '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/Autosaves/Game/RunSprites/run_Sprite_2_Auto2.uasset'
+[2025.09.19-01.28.54:300][916]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RunSprites/run_Sprite_3] ([1] browsable assets)...
+[2025.09.19-01.28.54:301][916]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/RunSprites/run_Sprite_3.run_Sprite_3]
+[2025.09.19-01.28.54:302][916]OBJ SavePackage: Finished generating thumbnails for package [/Game/RunSprites/run_Sprite_3]
+[2025.09.19-01.28.54:309][916]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/RunSprites/run_Sprite_3_Auto2
+[2025.09.19-01.28.54:309][916]LogSavePackage: Moving '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/run_Sprite_3_Auto21A32FE194FF0054DABF891B7DF51BD3D.tmp' to '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/Autosaves/Game/RunSprites/run_Sprite_3_Auto2.uasset'
+[2025.09.19-01.28.54:310][916]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RunSprites/run_Sprite_4] ([1] browsable assets)...
+[2025.09.19-01.28.54:312][916]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/RunSprites/run_Sprite_4.run_Sprite_4]
+[2025.09.19-01.28.54:312][916]OBJ SavePackage: Finished generating thumbnails for package [/Game/RunSprites/run_Sprite_4]
+[2025.09.19-01.28.54:319][916]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/RunSprites/run_Sprite_4_Auto2
+[2025.09.19-01.28.54:319][916]LogSavePackage: Moving '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/run_Sprite_4_Auto23A6EAD46428C8CE25A9516A8C540CC5A.tmp' to '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/Autosaves/Game/RunSprites/run_Sprite_4_Auto2.uasset'
+[2025.09.19-01.28.54:320][916]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RunSprites/run_Sprite_5] ([1] browsable assets)...
+[2025.09.19-01.28.54:321][916]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/RunSprites/run_Sprite_5.run_Sprite_5]
+[2025.09.19-01.28.54:321][916]OBJ SavePackage: Finished generating thumbnails for package [/Game/RunSprites/run_Sprite_5]
+[2025.09.19-01.28.54:330][916]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/RunSprites/run_Sprite_5_Auto2
+[2025.09.19-01.28.54:330][916]LogSavePackage: Moving '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/run_Sprite_5_Auto219CEE45F4ED655D2D944A9910FBCAF0F.tmp' to '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/Autosaves/Game/RunSprites/run_Sprite_5_Auto2.uasset'
+[2025.09.19-01.28.54:330][916]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RunSprites/run_Sprite_6] ([1] browsable assets)...
+[2025.09.19-01.28.54:332][916]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/RunSprites/run_Sprite_6.run_Sprite_6]
+[2025.09.19-01.28.54:332][916]OBJ SavePackage: Finished generating thumbnails for package [/Game/RunSprites/run_Sprite_6]
+[2025.09.19-01.28.54:339][916]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/RunSprites/run_Sprite_6_Auto2
+[2025.09.19-01.28.54:340][916]LogSavePackage: Moving '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/run_Sprite_6_Auto2A7619E1340D5F30042EC6E91604CEB15.tmp' to '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/Autosaves/Game/RunSprites/run_Sprite_6_Auto2.uasset'
+[2025.09.19-01.28.54:340][916]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RunSprites/run_Sprite_7] ([1] browsable assets)...
+[2025.09.19-01.28.54:342][916]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/RunSprites/run_Sprite_7.run_Sprite_7]
+[2025.09.19-01.28.54:342][916]OBJ SavePackage: Finished generating thumbnails for package [/Game/RunSprites/run_Sprite_7]
+[2025.09.19-01.28.54:350][916]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/RunSprites/run_Sprite_7_Auto2
+[2025.09.19-01.28.54:350][916]LogSavePackage: Moving '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/run_Sprite_7_Auto22C4A93C448CEE696C79873919466EB7A.tmp' to '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/Autosaves/Game/RunSprites/run_Sprite_7_Auto2.uasset'
+[2025.09.19-01.28.54:351][916]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RunSprites/run_Sprite_8] ([1] browsable assets)...
+[2025.09.19-01.28.54:352][916]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/RunSprites/run_Sprite_8.run_Sprite_8]
+[2025.09.19-01.28.54:352][916]OBJ SavePackage: Finished generating thumbnails for package [/Game/RunSprites/run_Sprite_8]
+[2025.09.19-01.28.54:360][916]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/RunSprites/run_Sprite_8_Auto2
+[2025.09.19-01.28.54:360][916]LogSavePackage: Moving '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/run_Sprite_8_Auto2D895432A444B188698A5739A9D011837.tmp' to '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/Autosaves/Game/RunSprites/run_Sprite_8_Auto2.uasset'
+[2025.09.19-01.28.54:361][916]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RunSprites/run_Sprite_9] ([1] browsable assets)...
+[2025.09.19-01.28.54:362][916]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/RunSprites/run_Sprite_9.run_Sprite_9]
+[2025.09.19-01.28.54:362][916]OBJ SavePackage: Finished generating thumbnails for package [/Game/RunSprites/run_Sprite_9]
+[2025.09.19-01.28.54:369][916]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/RunSprites/run_Sprite_9_Auto2
+[2025.09.19-01.28.54:369][916]LogSavePackage: Moving '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/run_Sprite_9_Auto217B6224A4039B01F8259F8A031A75883.tmp' to '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/Autosaves/Game/RunSprites/run_Sprite_9_Auto2.uasset'
+[2025.09.19-01.28.54:371][916]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RunSprites/run_Sprite_10] ([1] browsable assets)...
+[2025.09.19-01.28.54:373][916]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/RunSprites/run_Sprite_10.run_Sprite_10]
+[2025.09.19-01.28.54:373][916]OBJ SavePackage: Finished generating thumbnails for package [/Game/RunSprites/run_Sprite_10]
+[2025.09.19-01.28.54:382][916]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/RunSprites/run_Sprite_10_Auto2
+[2025.09.19-01.28.54:382][916]LogSavePackage: Moving '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/run_Sprite_10_Auto2D39B6A3B4815A1D0A9DDA39514FBBF2F.tmp' to '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/Autosaves/Game/RunSprites/run_Sprite_10_Auto2.uasset'
+[2025.09.19-01.28.54:382][916]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RunSprites/run_Sprite_11] ([1] browsable assets)...
+[2025.09.19-01.28.54:383][916]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/RunSprites/run_Sprite_11.run_Sprite_11]
+[2025.09.19-01.28.54:383][916]OBJ SavePackage: Finished generating thumbnails for package [/Game/RunSprites/run_Sprite_11]
+[2025.09.19-01.28.54:392][916]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/RunSprites/run_Sprite_11_Auto2
+[2025.09.19-01.28.54:392][916]LogSavePackage: Moving '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/run_Sprite_11_Auto267F7359F4D6348ED795CEF90B3281E27.tmp' to '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/Autosaves/Game/RunSprites/run_Sprite_11_Auto2.uasset'
+[2025.09.19-01.28.54:393][916]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RunSprites/run_Sprite_12] ([1] browsable assets)...
+[2025.09.19-01.28.54:394][916]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/RunSprites/run_Sprite_12.run_Sprite_12]
+[2025.09.19-01.28.54:394][916]OBJ SavePackage: Finished generating thumbnails for package [/Game/RunSprites/run_Sprite_12]
+[2025.09.19-01.28.54:403][916]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/RunSprites/run_Sprite_12_Auto2
+[2025.09.19-01.28.54:403][916]LogSavePackage: Moving '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/run_Sprite_12_Auto2D6BECDD64FCFD7CAB90BD4A28C02F8AB.tmp' to '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/Autosaves/Game/RunSprites/run_Sprite_12_Auto2.uasset'
+[2025.09.19-01.28.54:403][916]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RunSprites/run_Sprite_13] ([1] browsable assets)...
+[2025.09.19-01.28.54:405][916]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/RunSprites/run_Sprite_13.run_Sprite_13]
+[2025.09.19-01.28.54:405][916]OBJ SavePackage: Finished generating thumbnails for package [/Game/RunSprites/run_Sprite_13]
+[2025.09.19-01.28.54:413][916]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/RunSprites/run_Sprite_13_Auto2
+[2025.09.19-01.28.54:413][916]LogSavePackage: Moving '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/run_Sprite_13_Auto254A27A6C4183BB9483E0D4866935BA42.tmp' to '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/Autosaves/Game/RunSprites/run_Sprite_13_Auto2.uasset'
+[2025.09.19-01.28.54:413][916]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RunSprites/run_Sprite_14] ([1] browsable assets)...
+[2025.09.19-01.28.54:415][916]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/RunSprites/run_Sprite_14.run_Sprite_14]
+[2025.09.19-01.28.54:415][916]OBJ SavePackage: Finished generating thumbnails for package [/Game/RunSprites/run_Sprite_14]
+[2025.09.19-01.28.54:423][916]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/RunSprites/run_Sprite_14_Auto2
+[2025.09.19-01.28.54:423][916]LogSavePackage: Moving '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/run_Sprite_14_Auto261256364476F313673826285991FCAA6.tmp' to '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/Autosaves/Game/RunSprites/run_Sprite_14_Auto2.uasset'
+[2025.09.19-01.28.54:424][916]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RunSprites/run_Sprite_15] ([1] browsable assets)...
+[2025.09.19-01.28.54:425][916]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/RunSprites/run_Sprite_15.run_Sprite_15]
+[2025.09.19-01.28.54:425][916]OBJ SavePackage: Finished generating thumbnails for package [/Game/RunSprites/run_Sprite_15]
+[2025.09.19-01.28.54:434][916]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/RunSprites/run_Sprite_15_Auto2
+[2025.09.19-01.28.54:434][916]LogSavePackage: Moving '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/run_Sprite_15_Auto2B1DD09C84C809DF3AFB5E2B8485DB6C3.tmp' to '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/Autosaves/Game/RunSprites/run_Sprite_15_Auto2.uasset'
+[2025.09.19-01.28.54:434][916]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RunSprites/run_Sprite_16] ([1] browsable assets)...
+[2025.09.19-01.28.54:435][916]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/RunSprites/run_Sprite_16.run_Sprite_16]
+[2025.09.19-01.28.54:435][916]OBJ SavePackage: Finished generating thumbnails for package [/Game/RunSprites/run_Sprite_16]
+[2025.09.19-01.28.54:444][916]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/RunSprites/run_Sprite_16_Auto2
+[2025.09.19-01.28.54:444][916]LogSavePackage: Moving '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/run_Sprite_16_Auto229992A7E4C689DAACF59DB9CBEFF5ED4.tmp' to '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/Autosaves/Game/RunSprites/run_Sprite_16_Auto2.uasset'
+[2025.09.19-01.28.54:444][916]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RunSprites/run_Sprite_17] ([1] browsable assets)...
+[2025.09.19-01.28.54:445][916]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/RunSprites/run_Sprite_17.run_Sprite_17]
+[2025.09.19-01.28.54:445][916]OBJ SavePackage: Finished generating thumbnails for package [/Game/RunSprites/run_Sprite_17]
+[2025.09.19-01.28.54:454][916]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/RunSprites/run_Sprite_17_Auto2
+[2025.09.19-01.28.54:454][916]LogSavePackage: Moving '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/run_Sprite_17_Auto2EB5AA24E4ED84A439D40DF8A2867ED11.tmp' to '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/Autosaves/Game/RunSprites/run_Sprite_17_Auto2.uasset'
+[2025.09.19-01.28.54:454][916]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RunSprites/run_Sprite_18] ([1] browsable assets)...
+[2025.09.19-01.28.54:456][916]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/RunSprites/run_Sprite_18.run_Sprite_18]
+[2025.09.19-01.28.54:456][916]OBJ SavePackage: Finished generating thumbnails for package [/Game/RunSprites/run_Sprite_18]
+[2025.09.19-01.28.54:463][916]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/RunSprites/run_Sprite_18_Auto2
+[2025.09.19-01.28.54:463][916]LogSavePackage: Moving '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/run_Sprite_18_Auto24610DFAE427A5673E9D4F0A9CD44B57D.tmp' to '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/Autosaves/Game/RunSprites/run_Sprite_18_Auto2.uasset'
+[2025.09.19-01.28.54:464][916]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RunSprites/run_Sprite_19] ([1] browsable assets)...
+[2025.09.19-01.28.54:465][916]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/RunSprites/run_Sprite_19.run_Sprite_19]
+[2025.09.19-01.28.54:465][916]OBJ SavePackage: Finished generating thumbnails for package [/Game/RunSprites/run_Sprite_19]
+[2025.09.19-01.28.54:473][916]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/RunSprites/run_Sprite_19_Auto2
+[2025.09.19-01.28.54:473][916]LogSavePackage: Moving '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/run_Sprite_19_Auto208D900E341A0BC5A620E01A4ADBAB6CF.tmp' to '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/Autosaves/Game/RunSprites/run_Sprite_19_Auto2.uasset'
+[2025.09.19-01.28.54:474][916]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RunSprites/run_Sprite_20] ([1] browsable assets)...
+[2025.09.19-01.28.54:475][916]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/RunSprites/run_Sprite_20.run_Sprite_20]
+[2025.09.19-01.28.54:475][916]OBJ SavePackage: Finished generating thumbnails for package [/Game/RunSprites/run_Sprite_20]
+[2025.09.19-01.28.54:483][916]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/RunSprites/run_Sprite_20_Auto2
+[2025.09.19-01.28.54:483][916]LogSavePackage: Moving '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/run_Sprite_20_Auto26AC8FB8C4022868E66510EA8D3EB5E96.tmp' to '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/Autosaves/Game/RunSprites/run_Sprite_20_Auto2.uasset'
+[2025.09.19-01.28.54:484][916]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RunSprites/run_Sprite_21] ([1] browsable assets)...
+[2025.09.19-01.28.54:485][916]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/RunSprites/run_Sprite_21.run_Sprite_21]
+[2025.09.19-01.28.54:485][916]OBJ SavePackage: Finished generating thumbnails for package [/Game/RunSprites/run_Sprite_21]
+[2025.09.19-01.28.54:493][916]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/RunSprites/run_Sprite_21_Auto2
+[2025.09.19-01.28.54:493][916]LogSavePackage: Moving '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/run_Sprite_21_Auto2765034634704E9A1AD318F9676229392.tmp' to '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/Autosaves/Game/RunSprites/run_Sprite_21_Auto2.uasset'
+[2025.09.19-01.28.54:494][916]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RunSprites/run_Sprite_22] ([1] browsable assets)...
+[2025.09.19-01.28.54:495][916]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/RunSprites/run_Sprite_22.run_Sprite_22]
+[2025.09.19-01.28.54:495][916]OBJ SavePackage: Finished generating thumbnails for package [/Game/RunSprites/run_Sprite_22]
+[2025.09.19-01.28.54:504][916]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/RunSprites/run_Sprite_22_Auto2
+[2025.09.19-01.28.54:504][916]LogSavePackage: Moving '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/run_Sprite_22_Auto21417D5DD4E033D35D2A60E9705E93702.tmp' to '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/Autosaves/Game/RunSprites/run_Sprite_22_Auto2.uasset'
+[2025.09.19-01.28.54:504][916]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RunSprites/run_Sprite_23] ([1] browsable assets)...
+[2025.09.19-01.28.54:506][916]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/RunSprites/run_Sprite_23.run_Sprite_23]
+[2025.09.19-01.28.54:506][916]OBJ SavePackage: Finished generating thumbnails for package [/Game/RunSprites/run_Sprite_23]
+[2025.09.19-01.28.54:514][916]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/RunSprites/run_Sprite_23_Auto2
+[2025.09.19-01.28.54:514][916]LogSavePackage: Moving '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/run_Sprite_23_Auto2F79D1D724A99EEFD80EAB999AE5B1D67.tmp' to '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/Autosaves/Game/RunSprites/run_Sprite_23_Auto2.uasset'
+[2025.09.19-01.28.54:514][916]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RunSprites/run_Sprite_24] ([1] browsable assets)...
+[2025.09.19-01.28.54:516][916]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/RunSprites/run_Sprite_24.run_Sprite_24]
+[2025.09.19-01.28.54:516][916]OBJ SavePackage: Finished generating thumbnails for package [/Game/RunSprites/run_Sprite_24]
+[2025.09.19-01.28.54:523][916]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/RunSprites/run_Sprite_24_Auto2
+[2025.09.19-01.28.54:524][916]LogSavePackage: Moving '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/run_Sprite_24_Auto2D9209C9A46FAF4298EEF2BB9901F18B1.tmp' to '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/Autosaves/Game/RunSprites/run_Sprite_24_Auto2.uasset'
+[2025.09.19-01.28.54:524][916]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RunSprites/run_Sprite_25] ([1] browsable assets)...
+[2025.09.19-01.28.54:525][916]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/RunSprites/run_Sprite_25.run_Sprite_25]
+[2025.09.19-01.28.54:525][916]OBJ SavePackage: Finished generating thumbnails for package [/Game/RunSprites/run_Sprite_25]
+[2025.09.19-01.28.54:534][916]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/RunSprites/run_Sprite_25_Auto2
+[2025.09.19-01.28.54:534][916]LogSavePackage: Moving '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/run_Sprite_25_Auto2E1363F5F4A5E3FC5A6463CAA247533A7.tmp' to '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/Autosaves/Game/RunSprites/run_Sprite_25_Auto2.uasset'
+[2025.09.19-01.28.54:534][916]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/WheelieSprites/wheelie] ([1] browsable assets)...
+[2025.09.19-01.28.54:535][916]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/WheelieSprites/wheelie.wheelie]
+[2025.09.19-01.28.54:535][916]OBJ SavePackage: Finished generating thumbnails for package [/Game/WheelieSprites/wheelie]
+[2025.09.19-01.28.54:550][916]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/WheelieSprites/wheelie_Auto2
+[2025.09.19-01.28.54:550][916]LogSavePackage: Moving '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/wheelie_Auto23671C81F4BDDBDB37CF2929A70897EFB.tmp' to '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/Autosaves/Game/WheelieSprites/wheelie_Auto2.uasset'
+[2025.09.19-01.28.54:550][916]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/WheelieSprites/wheelie_Sprite_0] ([1] browsable assets)...
+[2025.09.19-01.28.54:552][916]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/WheelieSprites/wheelie_Sprite_0.wheelie_Sprite_0]
+[2025.09.19-01.28.54:552][916]OBJ SavePackage: Finished generating thumbnails for package [/Game/WheelieSprites/wheelie_Sprite_0]
+[2025.09.19-01.28.54:560][916]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/WheelieSprites/wheelie_Sprite_0_Auto2
+[2025.09.19-01.28.54:560][916]LogSavePackage: Moving '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/wheelie_Sprite_0_Auto2299E9E304BAB89F844EB099E136D4B2B.tmp' to '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/Autosaves/Game/WheelieSprites/wheelie_Sprite_0_Auto2.uasset'
+[2025.09.19-01.28.54:561][916]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/WheelieSprites/wheelie_Sprite_1] ([1] browsable assets)...
+[2025.09.19-01.28.54:562][916]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/WheelieSprites/wheelie_Sprite_1.wheelie_Sprite_1]
+[2025.09.19-01.28.54:562][916]OBJ SavePackage: Finished generating thumbnails for package [/Game/WheelieSprites/wheelie_Sprite_1]
+[2025.09.19-01.28.54:570][916]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/WheelieSprites/wheelie_Sprite_1_Auto2
+[2025.09.19-01.28.54:570][916]LogSavePackage: Moving '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/wheelie_Sprite_1_Auto2BA0346474F7A84882C3B3186E4EE1DA7.tmp' to '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/Autosaves/Game/WheelieSprites/wheelie_Sprite_1_Auto2.uasset'
+[2025.09.19-01.28.54:572][916]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/WheelieSprites/wheelie_Sprite_2] ([1] browsable assets)...
+[2025.09.19-01.28.54:574][916]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/WheelieSprites/wheelie_Sprite_2.wheelie_Sprite_2]
+[2025.09.19-01.28.54:574][916]OBJ SavePackage: Finished generating thumbnails for package [/Game/WheelieSprites/wheelie_Sprite_2]
+[2025.09.19-01.28.54:583][916]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/WheelieSprites/wheelie_Sprite_2_Auto2
+[2025.09.19-01.28.54:583][916]LogSavePackage: Moving '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/wheelie_Sprite_2_Auto2045ADC3C4ECA2C0652A9C8AF9B70ADA9.tmp' to '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/Autosaves/Game/WheelieSprites/wheelie_Sprite_2_Auto2.uasset'
+[2025.09.19-01.28.54:583][916]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/WheelieSprites/wheelie_Sprite_3] ([1] browsable assets)...
+[2025.09.19-01.28.54:585][916]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/WheelieSprites/wheelie_Sprite_3.wheelie_Sprite_3]
+[2025.09.19-01.28.54:585][916]OBJ SavePackage: Finished generating thumbnails for package [/Game/WheelieSprites/wheelie_Sprite_3]
+[2025.09.19-01.28.54:593][916]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/WheelieSprites/wheelie_Sprite_3_Auto2
+[2025.09.19-01.28.54:593][916]LogSavePackage: Moving '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/wheelie_Sprite_3_Auto27744831E45A861E61A574EA3B55056F2.tmp' to '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/Autosaves/Game/WheelieSprites/wheelie_Sprite_3_Auto2.uasset'
+[2025.09.19-01.28.54:594][916]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/WheelieSprites/wheelie_Sprite_4] ([1] browsable assets)...
+[2025.09.19-01.28.54:595][916]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/WheelieSprites/wheelie_Sprite_4.wheelie_Sprite_4]
+[2025.09.19-01.28.54:595][916]OBJ SavePackage: Finished generating thumbnails for package [/Game/WheelieSprites/wheelie_Sprite_4]
+[2025.09.19-01.28.54:604][916]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/WheelieSprites/wheelie_Sprite_4_Auto2
+[2025.09.19-01.28.54:604][916]LogSavePackage: Moving '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/wheelie_Sprite_4_Auto220A79517474CA18D546E8A81F44E3FC7.tmp' to '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/Autosaves/Game/WheelieSprites/wheelie_Sprite_4_Auto2.uasset'
+[2025.09.19-01.28.54:604][916]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/WheelieSprites/wheelie_Sprite_5] ([1] browsable assets)...
+[2025.09.19-01.28.54:606][916]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/WheelieSprites/wheelie_Sprite_5.wheelie_Sprite_5]
+[2025.09.19-01.28.54:606][916]OBJ SavePackage: Finished generating thumbnails for package [/Game/WheelieSprites/wheelie_Sprite_5]
+[2025.09.19-01.28.54:614][916]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/WheelieSprites/wheelie_Sprite_5_Auto2
+[2025.09.19-01.28.54:614][916]LogSavePackage: Moving '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/wheelie_Sprite_5_Auto236B2588E44DCC93631BF91A8CFD5FB5F.tmp' to '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/Autosaves/Game/WheelieSprites/wheelie_Sprite_5_Auto2.uasset'
+[2025.09.19-01.28.54:614][916]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/WheelieSprites/wheelie_Sprite_6] ([1] browsable assets)...
+[2025.09.19-01.28.54:616][916]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/WheelieSprites/wheelie_Sprite_6.wheelie_Sprite_6]
+[2025.09.19-01.28.54:616][916]OBJ SavePackage: Finished generating thumbnails for package [/Game/WheelieSprites/wheelie_Sprite_6]
+[2025.09.19-01.28.54:623][916]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/WheelieSprites/wheelie_Sprite_6_Auto2
+[2025.09.19-01.28.54:623][916]LogSavePackage: Moving '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/wheelie_Sprite_6_Auto2F88BF70047D7C0A5E6E90BB5854334D1.tmp' to '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/Autosaves/Game/WheelieSprites/wheelie_Sprite_6_Auto2.uasset'
+[2025.09.19-01.28.54:624][916]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/WheelieSprites/wheelie_Sprite_7] ([1] browsable assets)...
+[2025.09.19-01.28.54:626][916]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/WheelieSprites/wheelie_Sprite_7.wheelie_Sprite_7]
+[2025.09.19-01.28.54:626][916]OBJ SavePackage: Finished generating thumbnails for package [/Game/WheelieSprites/wheelie_Sprite_7]
+[2025.09.19-01.28.54:634][916]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/WheelieSprites/wheelie_Sprite_7_Auto2
+[2025.09.19-01.28.54:634][916]LogSavePackage: Moving '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/wheelie_Sprite_7_Auto23C0A34534D36FFB0CCAF4BA225541E77.tmp' to '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/Autosaves/Game/WheelieSprites/wheelie_Sprite_7_Auto2.uasset'
+[2025.09.19-01.28.54:635][916]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/WheelieSprites/wheelie_Sprite_8] ([1] browsable assets)...
+[2025.09.19-01.28.54:636][916]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/WheelieSprites/wheelie_Sprite_8.wheelie_Sprite_8]
+[2025.09.19-01.28.54:636][916]OBJ SavePackage: Finished generating thumbnails for package [/Game/WheelieSprites/wheelie_Sprite_8]
+[2025.09.19-01.28.54:644][916]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/WheelieSprites/wheelie_Sprite_8_Auto2
+[2025.09.19-01.28.54:644][916]LogSavePackage: Moving '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/wheelie_Sprite_8_Auto2B1CC2A234C7A6284C59A55844B72CE99.tmp' to '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/Autosaves/Game/WheelieSprites/wheelie_Sprite_8_Auto2.uasset'
+[2025.09.19-01.28.54:645][916]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/WheelieSprites/wheelie_Sprite_9] ([1] browsable assets)...
+[2025.09.19-01.28.54:645][916]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/WheelieSprites/wheelie_Sprite_9.wheelie_Sprite_9]
+[2025.09.19-01.28.54:645][916]OBJ SavePackage: Finished generating thumbnails for package [/Game/WheelieSprites/wheelie_Sprite_9]
+[2025.09.19-01.28.54:654][916]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/WheelieSprites/wheelie_Sprite_9_Auto2
+[2025.09.19-01.28.54:654][916]LogSavePackage: Moving '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/wheelie_Sprite_9_Auto2C8ABBFF145689DE859D88AAF826B6684.tmp' to '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/Autosaves/Game/WheelieSprites/wheelie_Sprite_9_Auto2.uasset'
+[2025.09.19-01.28.54:654][916]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/WheelieSprites/wheelie_Sprite_10] ([1] browsable assets)...
+[2025.09.19-01.28.54:656][916]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/WheelieSprites/wheelie_Sprite_10.wheelie_Sprite_10]
+[2025.09.19-01.28.54:656][916]OBJ SavePackage: Finished generating thumbnails for package [/Game/WheelieSprites/wheelie_Sprite_10]
+[2025.09.19-01.28.54:664][916]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/WheelieSprites/wheelie_Sprite_10_Auto2
+[2025.09.19-01.28.54:664][916]LogSavePackage: Moving '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/wheelie_Sprite_10_Auto2A4E28B5B42E7796E179AB0ABADDA30A8.tmp' to '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/Autosaves/Game/WheelieSprites/wheelie_Sprite_10_Auto2.uasset'
+[2025.09.19-01.28.54:665][916]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/WheelieSprites/wheelie_Sprite_11] ([1] browsable assets)...
+[2025.09.19-01.28.54:666][916]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/WheelieSprites/wheelie_Sprite_11.wheelie_Sprite_11]
+[2025.09.19-01.28.54:666][916]OBJ SavePackage: Finished generating thumbnails for package [/Game/WheelieSprites/wheelie_Sprite_11]
+[2025.09.19-01.28.54:674][916]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/WheelieSprites/wheelie_Sprite_11_Auto2
+[2025.09.19-01.28.54:674][916]LogSavePackage: Moving '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/wheelie_Sprite_11_Auto297DE06BD4B4E70E8A70C8B8A5A1C5ABD.tmp' to '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/Autosaves/Game/WheelieSprites/wheelie_Sprite_11_Auto2.uasset'
+[2025.09.19-01.28.54:675][916]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/WheelieSprites/wheelie_Sprite_12] ([1] browsable assets)...
+[2025.09.19-01.28.54:676][916]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/WheelieSprites/wheelie_Sprite_12.wheelie_Sprite_12]
+[2025.09.19-01.28.54:676][916]OBJ SavePackage: Finished generating thumbnails for package [/Game/WheelieSprites/wheelie_Sprite_12]
+[2025.09.19-01.28.54:684][916]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/WheelieSprites/wheelie_Sprite_12_Auto2
+[2025.09.19-01.28.54:684][916]LogSavePackage: Moving '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/wheelie_Sprite_12_Auto26C39CE4D46785CD3504CF096C35BFF1D.tmp' to '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/Autosaves/Game/WheelieSprites/wheelie_Sprite_12_Auto2.uasset'
+[2025.09.19-01.28.54:685][916]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/WheelieSprites/wheelie_Sprite_13] ([1] browsable assets)...
+[2025.09.19-01.28.54:686][916]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/WheelieSprites/wheelie_Sprite_13.wheelie_Sprite_13]
+[2025.09.19-01.28.54:686][916]OBJ SavePackage: Finished generating thumbnails for package [/Game/WheelieSprites/wheelie_Sprite_13]
+[2025.09.19-01.28.54:694][916]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/WheelieSprites/wheelie_Sprite_13_Auto2
+[2025.09.19-01.28.54:694][916]LogSavePackage: Moving '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/wheelie_Sprite_13_Auto2B5A23CB64F2BA2AFC73EEE8DB6AA7B10.tmp' to '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/Autosaves/Game/WheelieSprites/wheelie_Sprite_13_Auto2.uasset'
+[2025.09.19-01.28.54:695][916]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/WheelieSprites/wheelie_Sprite_14] ([1] browsable assets)...
+[2025.09.19-01.28.54:696][916]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/WheelieSprites/wheelie_Sprite_14.wheelie_Sprite_14]
+[2025.09.19-01.28.54:696][916]OBJ SavePackage: Finished generating thumbnails for package [/Game/WheelieSprites/wheelie_Sprite_14]
+[2025.09.19-01.28.54:705][916]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/WheelieSprites/wheelie_Sprite_14_Auto2
+[2025.09.19-01.28.54:705][916]LogSavePackage: Moving '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/wheelie_Sprite_14_Auto2D54AAD2B448B85BC4ABCB092B68DC75B.tmp' to '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/Autosaves/Game/WheelieSprites/wheelie_Sprite_14_Auto2.uasset'
+[2025.09.19-01.28.54:705][916]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/WheelieSprites/wheelie_Sprite_15] ([1] browsable assets)...
+[2025.09.19-01.28.54:706][916]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/WheelieSprites/wheelie_Sprite_15.wheelie_Sprite_15]
+[2025.09.19-01.28.54:706][916]OBJ SavePackage: Finished generating thumbnails for package [/Game/WheelieSprites/wheelie_Sprite_15]
+[2025.09.19-01.28.54:715][916]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/WheelieSprites/wheelie_Sprite_15_Auto2
+[2025.09.19-01.28.54:715][916]LogSavePackage: Moving '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/wheelie_Sprite_15_Auto24D9FE0E24CBD056249789CB73917A3FC.tmp' to '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/Autosaves/Game/WheelieSprites/wheelie_Sprite_15_Auto2.uasset'
+[2025.09.19-01.28.54:716][916]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/WheelieSprites/wheelie_Sprite_16] ([1] browsable assets)...
+[2025.09.19-01.28.54:717][916]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/WheelieSprites/wheelie_Sprite_16.wheelie_Sprite_16]
+[2025.09.19-01.28.54:717][916]OBJ SavePackage: Finished generating thumbnails for package [/Game/WheelieSprites/wheelie_Sprite_16]
+[2025.09.19-01.28.54:725][916]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/WheelieSprites/wheelie_Sprite_16_Auto2
+[2025.09.19-01.28.54:725][916]LogSavePackage: Moving '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/wheelie_Sprite_16_Auto21CE3193E4202EAB82ECF7691151EC0F6.tmp' to '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/Autosaves/Game/WheelieSprites/wheelie_Sprite_16_Auto2.uasset'
+[2025.09.19-01.28.54:725][916]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/WheelieSprites/wheelie_Sprite_17] ([1] browsable assets)...
+[2025.09.19-01.28.54:727][916]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/WheelieSprites/wheelie_Sprite_17.wheelie_Sprite_17]
+[2025.09.19-01.28.54:727][916]OBJ SavePackage: Finished generating thumbnails for package [/Game/WheelieSprites/wheelie_Sprite_17]
+[2025.09.19-01.28.54:735][916]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/WheelieSprites/wheelie_Sprite_17_Auto2
+[2025.09.19-01.28.54:735][916]LogSavePackage: Moving '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/wheelie_Sprite_17_Auto23D83B7B244222A8887678898D929854B.tmp' to '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/Autosaves/Game/WheelieSprites/wheelie_Sprite_17_Auto2.uasset'
+[2025.09.19-01.28.54:735][916]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/WheelieSprites/wheelie_Sprite_18] ([1] browsable assets)...
+[2025.09.19-01.28.54:737][916]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/WheelieSprites/wheelie_Sprite_18.wheelie_Sprite_18]
+[2025.09.19-01.28.54:737][916]OBJ SavePackage: Finished generating thumbnails for package [/Game/WheelieSprites/wheelie_Sprite_18]
+[2025.09.19-01.28.54:746][916]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/WheelieSprites/wheelie_Sprite_18_Auto2
+[2025.09.19-01.28.54:746][916]LogSavePackage: Moving '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/wheelie_Sprite_18_Auto2FC3B7E914D9F1A0890977FBF391CB339.tmp' to '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/Autosaves/Game/WheelieSprites/wheelie_Sprite_18_Auto2.uasset'
+[2025.09.19-01.28.54:746][916]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/WheelieSprites/wheelie_Sprite_19] ([1] browsable assets)...
+[2025.09.19-01.28.54:747][916]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/WheelieSprites/wheelie_Sprite_19.wheelie_Sprite_19]
+[2025.09.19-01.28.54:747][916]OBJ SavePackage: Finished generating thumbnails for package [/Game/WheelieSprites/wheelie_Sprite_19]
+[2025.09.19-01.28.54:756][916]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/WheelieSprites/wheelie_Sprite_19_Auto2
+[2025.09.19-01.28.54:756][916]LogSavePackage: Moving '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/wheelie_Sprite_19_Auto298FDEEAD462CF5ABF679F9BE4B22A746.tmp' to '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/Autosaves/Game/WheelieSprites/wheelie_Sprite_19_Auto2.uasset'
+[2025.09.19-01.28.54:756][916]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/WheelieSprites/wheelie_Sprite_20] ([1] browsable assets)...
+[2025.09.19-01.28.54:758][916]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/WheelieSprites/wheelie_Sprite_20.wheelie_Sprite_20]
+[2025.09.19-01.28.54:758][916]OBJ SavePackage: Finished generating thumbnails for package [/Game/WheelieSprites/wheelie_Sprite_20]
+[2025.09.19-01.28.54:766][916]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/WheelieSprites/wheelie_Sprite_20_Auto2
+[2025.09.19-01.28.54:766][916]LogSavePackage: Moving '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/wheelie_Sprite_20_Auto2722A831E4925DFD5A70865A5225D085C.tmp' to '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/Autosaves/Game/WheelieSprites/wheelie_Sprite_20_Auto2.uasset'
+[2025.09.19-01.28.54:767][916]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/WheelieSprites/wheelie_Sprite_21] ([1] browsable assets)...
+[2025.09.19-01.28.54:768][916]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/WheelieSprites/wheelie_Sprite_21.wheelie_Sprite_21]
+[2025.09.19-01.28.54:768][916]OBJ SavePackage: Finished generating thumbnails for package [/Game/WheelieSprites/wheelie_Sprite_21]
+[2025.09.19-01.28.54:776][916]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/WheelieSprites/wheelie_Sprite_21_Auto2
+[2025.09.19-01.28.54:776][916]LogSavePackage: Moving '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/wheelie_Sprite_21_Auto20CE60740491151D3AA9AB49ECBA6FCD9.tmp' to '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/Autosaves/Game/WheelieSprites/wheelie_Sprite_21_Auto2.uasset'
+[2025.09.19-01.28.54:778][916]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/WheelieSprites/wheelie_Sprite_22] ([1] browsable assets)...
+[2025.09.19-01.28.54:781][916]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/WheelieSprites/wheelie_Sprite_22.wheelie_Sprite_22]
+[2025.09.19-01.28.54:781][916]OBJ SavePackage: Finished generating thumbnails for package [/Game/WheelieSprites/wheelie_Sprite_22]
+[2025.09.19-01.28.54:789][916]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/WheelieSprites/wheelie_Sprite_22_Auto2
+[2025.09.19-01.28.54:789][916]LogSavePackage: Moving '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/wheelie_Sprite_22_Auto2147CD3164B78ECD11DF2039BA54C4010.tmp' to '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/Autosaves/Game/WheelieSprites/wheelie_Sprite_22_Auto2.uasset'
+[2025.09.19-01.28.54:789][916]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/WheelieSprites/wheelie_Sprite_23] ([1] browsable assets)...
+[2025.09.19-01.28.54:791][916]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/WheelieSprites/wheelie_Sprite_23.wheelie_Sprite_23]
+[2025.09.19-01.28.54:791][916]OBJ SavePackage: Finished generating thumbnails for package [/Game/WheelieSprites/wheelie_Sprite_23]
+[2025.09.19-01.28.54:798][916]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/WheelieSprites/wheelie_Sprite_23_Auto2
+[2025.09.19-01.28.54:798][916]LogSavePackage: Moving '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/wheelie_Sprite_23_Auto29346C66744F42A8293C8ABB397F1F7DD.tmp' to '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/Autosaves/Game/WheelieSprites/wheelie_Sprite_23_Auto2.uasset'
+[2025.09.19-01.28.54:799][916]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/WheelieSprites/wheelie_Sprite_24] ([1] browsable assets)...
+[2025.09.19-01.28.54:800][916]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/WheelieSprites/wheelie_Sprite_24.wheelie_Sprite_24]
+[2025.09.19-01.28.54:800][916]OBJ SavePackage: Finished generating thumbnails for package [/Game/WheelieSprites/wheelie_Sprite_24]
+[2025.09.19-01.28.54:809][916]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/WheelieSprites/wheelie_Sprite_24_Auto2
+[2025.09.19-01.28.54:809][916]LogSavePackage: Moving '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/wheelie_Sprite_24_Auto20EE8030F4BF08077738081877B7D4014.tmp' to '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/Autosaves/Game/WheelieSprites/wheelie_Sprite_24_Auto2.uasset'
+[2025.09.19-01.28.54:809][916]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DGameMode] ([2] browsable assets)...
+[2025.09.19-01.28.54:809][916]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DGameMode]
+[2025.09.19-01.28.54:818][916]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/2DGameMode_Auto2
+[2025.09.19-01.28.54:818][916]LogSavePackage: Moving '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/2DGameMode_Auto247E79EF24680278CC57C848EC10A287F.tmp' to '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/Autosaves/Game/2DGameMode_Auto2.uasset'
+[2025.09.19-01.28.54:819][916]LogFileHelpers: Auto-saving content packages took 0.624
+[2025.09.19-01.31.05:806][173]LogSlate: External Image Picker: DecompressImage failed
+[2025.09.19-01.31.14:640][155]LogSlate: Window 'Project Settings' being destroyed
+[2025.09.19-01.31.14:648][155]LogSlate: Window 'Project Settings' being destroyed
+[2025.09.19-01.31.51:810][385]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3147.073730
+[2025.09.19-01.31.52:068][416]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.19-01.31.52:068][417]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3147.322266, Update Interval: 333.987244
+[2025.09.19-01.32.11:515][636]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.19-01.32.11:558][636]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/2DMainCharacter] ([2] browsable assets)...
+[2025.09.19-01.32.11:600][636]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/2DMainCharacter.2DMainCharacter]
+[2025.09.19-01.32.11:600][636]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DMainCharacter]
+[2025.09.19-01.32.11:600][636]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DMainCharacter" FILE="../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Content/2DMainCharacter.uasset" SILENT=true
+[2025.09.19-01.32.11:614][636]LogSavePackage: Moving output files for package: /Game/2DMainCharacter
+[2025.09.19-01.32.11:614][636]LogSavePackage: Moving '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/2DMainCharacter636F38324EE4382D3E89F1B4B780BAD6.tmp' to '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Content/2DMainCharacter.uasset'
+[2025.09.19-01.32.11:621][636]LogFileHelpers: InternalPromptForCheckoutAndSave took 107.012 ms (total: 789.891 ms)
+[2025.09.19-01.32.11:657][636]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.19-01.32.11:657][636]LogContentValidation: Enabled validators:
+[2025.09.19-01.32.11:657][636]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.19-01.32.11:657][636]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.19-01.32.11:657][636]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.19-01.32.11:657][636]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.19-01.32.11:657][636]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.19-01.32.11:657][636]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.19-01.32.11:657][636]AssetCheck: /Game/2DMainCharacter Validating asset
+[2025.09.19-01.33.28:045][562]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.09.19-01.33.31:075][846]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.19-01.33.31:079][846]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.19-01.33.31:079][846]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_WheelieBob
+[2025.09.19-01.33.31:081][846]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001645s)
+[2025.09.19-01.33.31:081][846]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WheelieBob.WheelieBob to /Game/UEDPIE_0_WheelieBob.WheelieBob (0.001677s)
+[2025.09.19-01.33.31:102][846]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.09.19-01.33.31:105][846]LogChaosDD: Creating Chaos Debug Draw Scene for world WheelieBob
+[2025.09.19-01.33.31:106][846]LogPlayLevel: PIE: World Init took: (0.001564s)
+[2025.09.19-01.33.31:107][846]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.09.19-01.33.31:107][846]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.19-01.33.31:107][846]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.19-01.33.31:107][846]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.19-01.33.31:107][846]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.19-01.33.31:107][846]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.19-01.33.31:107][846]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.19-01.33.31:107][846]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.19-01.33.31:107][846]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.19-01.33.31:107][846]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.19-01.33.31:107][846]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.19-01.33.31:107][846]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.19-01.33.31:109][846]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.19-01.33.31:161][846]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.09.19-01.33.31:161][846]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.19-01.33.31:161][846]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.19-01.33.31:161][846]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.19-01.33.31:162][846]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.09.19-01.33.31:162][846]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.09.19-01.33.31:165][846]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.09.19-01.33.31:165][846]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.09.19-01.33.31:165][846]LogInit: FAudioDevice initialized with ID 4.
+[2025.09.19-01.33.31:165][846]LogAudio: Display: Audio Device (ID: 4) registered with world 'WheelieBob'.
+[2025.09.19-01.33.31:165][846]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.09.19-01.33.31:169][846]LogLoad: Game class is '2DGameMode_C'
+[2025.09.19-01.33.31:170][846]LogWorld: Bringing World /Game/UEDPIE_0_WheelieBob.WheelieBob up for play (max tick rate 0) at 2025.09.19-13.33.31
+[2025.09.19-01.33.31:170][846]LogWorld: Bringing up level for play took: 0.000627
+[2025.09.19-01.33.31:171][846]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2025.09.19-01.33.31:173][846]PIE: Server logged in
+[2025.09.19-01.33.31:176][846]PIE: Play in editor total start time 0.097 seconds.
+[2025.09.19-01.33.35:794][254]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.19-01.33.35:794][254]LogWorld: BeginTearingDown for /Game/UEDPIE_0_WheelieBob
+[2025.09.19-01.33.35:794][254]LogWorld: UWorld::CleanupWorld for WheelieBob, bSessionEnded=true, bCleanupResources=true
+[2025.09.19-01.33.35:794][254]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.19-01.33.35:795][254]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.19-01.33.35:799][254]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.19-01.33.35:820][254]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.19-01.33.35:820][254]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.09.19-01.33.35:820][254]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=4
+[2025.09.19-01.33.35:822][254]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=2
+[2025.09.19-01.33.35:828][254]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.09.19-01.33.35:884][255]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2025.09.19-01.35.55:819][865]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.19-01.35.55:850][865]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/2DMainCharacter] ([2] browsable assets)...
+[2025.09.19-01.35.55:894][865]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/2DMainCharacter.2DMainCharacter]
+[2025.09.19-01.35.55:894][865]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DMainCharacter]
+[2025.09.19-01.35.55:894][865]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DMainCharacter" FILE="../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Content/2DMainCharacter.uasset" SILENT=true
+[2025.09.19-01.35.55:911][865]LogSavePackage: Moving output files for package: /Game/2DMainCharacter
+[2025.09.19-01.35.55:911][865]LogSavePackage: Moving '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/2DMainCharacter3333D686444B7894A8EA76AA9AD73496.tmp' to '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Content/2DMainCharacter.uasset'
+[2025.09.19-01.35.55:918][865]LogFileHelpers: InternalPromptForCheckoutAndSave took 100.314 ms (total: 890.205 ms)
+[2025.09.19-01.35.55:967][865]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.19-01.35.55:967][865]LogContentValidation: Enabled validators:
+[2025.09.19-01.35.55:967][865]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.19-01.35.55:967][865]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.19-01.35.55:967][865]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.19-01.35.55:967][865]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.19-01.35.55:967][865]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.19-01.35.55:967][865]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.19-01.35.55:967][865]AssetCheck: /Game/2DMainCharacter Validating asset
+[2025.09.19-01.35.58:785][148]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.19-01.35.58:790][148]LogPlayLevel: [PlayLevel] Compiling 2DMainCharacter before play...
+[2025.09.19-01.35.58:838][148]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.09.19-01.35.58:841][148]LogPlayLevel: PlayLevel: Blueprint regeneration took 51 ms (1 blueprints)
+[2025.09.19-01.35.58:841][148]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_WheelieBob
+[2025.09.19-01.35.58:843][148]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001596s)
+[2025.09.19-01.35.58:843][148]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WheelieBob.WheelieBob to /Game/UEDPIE_0_WheelieBob.WheelieBob (0.001652s)
+[2025.09.19-01.35.58:863][148]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.09.19-01.35.58:864][148]LogChaosDD: Creating Chaos Debug Draw Scene for world WheelieBob
+[2025.09.19-01.35.58:865][148]LogPlayLevel: PIE: World Init took: (0.001654s)
+[2025.09.19-01.35.58:866][148]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.09.19-01.35.58:866][148]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.19-01.35.58:866][148]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.19-01.35.58:866][148]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.19-01.35.58:866][148]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.19-01.35.58:866][148]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.19-01.35.58:866][148]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.19-01.35.58:866][148]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.19-01.35.58:866][148]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.19-01.35.58:866][148]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.19-01.35.58:866][148]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.19-01.35.58:866][148]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.19-01.35.58:869][148]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.19-01.35.58:924][148]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.09.19-01.35.58:924][148]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.19-01.35.58:924][148]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.19-01.35.58:924][148]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.19-01.35.58:925][148]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.09.19-01.35.58:925][148]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.09.19-01.35.58:927][148]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.09.19-01.35.58:927][148]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.09.19-01.35.58:927][148]LogInit: FAudioDevice initialized with ID 5.
+[2025.09.19-01.35.58:927][148]LogAudio: Display: Audio Device (ID: 5) registered with world 'WheelieBob'.
+[2025.09.19-01.35.58:927][148]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.09.19-01.35.58:931][148]LogLoad: Game class is '2DGameMode_C'
+[2025.09.19-01.35.58:932][148]LogWorld: Bringing World /Game/UEDPIE_0_WheelieBob.WheelieBob up for play (max tick rate 0) at 2025.09.19-13.35.58
+[2025.09.19-01.35.58:932][148]LogWorld: Bringing up level for play took: 0.000663
+[2025.09.19-01.35.58:934][148]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2025.09.19-01.35.58:937][148]PIE: Server logged in
+[2025.09.19-01.35.58:939][148]PIE: Play in editor total start time 0.15 seconds.
+[2025.09.19-01.36.08:163][ 11]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.19-01.36.08:164][ 11]LogWorld: BeginTearingDown for /Game/UEDPIE_0_WheelieBob
+[2025.09.19-01.36.08:164][ 11]LogWorld: UWorld::CleanupWorld for WheelieBob, bSessionEnded=true, bCleanupResources=true
+[2025.09.19-01.36.08:164][ 11]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.19-01.36.08:165][ 11]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.19-01.36.08:169][ 11]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.19-01.36.08:188][ 11]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.19-01.36.08:189][ 11]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.09.19-01.36.08:189][ 11]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=4
+[2025.09.19-01.36.08:191][ 11]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=2
+[2025.09.19-01.36.08:197][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.09.19-01.36.08:296][ 12]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2025.09.19-01.36.39:865][600]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.09.19-01.36.45:802][128]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.19-01.36.45:806][128]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.19-01.36.45:838][128]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_WheelieBob
+[2025.09.19-01.36.45:839][128]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001679s)
+[2025.09.19-01.36.45:839][128]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WheelieBob.WheelieBob to /Game/UEDPIE_0_WheelieBob.WheelieBob (0.001721s)
+[2025.09.19-01.36.45:860][128]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.09.19-01.36.45:864][128]LogChaosDD: Creating Chaos Debug Draw Scene for world WheelieBob
+[2025.09.19-01.36.45:865][128]LogPlayLevel: PIE: World Init took: (0.001456s)
+[2025.09.19-01.36.45:867][128]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2025.09.19-01.36.45:867][128]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.19-01.36.45:867][128]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.19-01.36.45:867][128]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.19-01.36.45:867][128]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.19-01.36.45:867][128]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.19-01.36.45:867][128]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.19-01.36.45:867][128]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.19-01.36.45:867][128]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.19-01.36.45:867][128]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.19-01.36.45:867][128]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.19-01.36.45:867][128]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.19-01.36.45:868][128]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.19-01.36.45:920][128]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.09.19-01.36.45:920][128]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.19-01.36.45:920][128]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.19-01.36.45:920][128]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.19-01.36.45:921][128]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2025.09.19-01.36.45:921][128]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2025.09.19-01.36.45:923][128]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2025.09.19-01.36.45:923][128]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2025.09.19-01.36.45:923][128]LogInit: FAudioDevice initialized with ID 6.
+[2025.09.19-01.36.45:923][128]LogAudio: Display: Audio Device (ID: 6) registered with world 'WheelieBob'.
+[2025.09.19-01.36.45:923][128]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2025.09.19-01.36.45:927][128]LogLoad: Game class is '2DGameMode_C'
+[2025.09.19-01.36.45:927][128]LogWorld: Bringing World /Game/UEDPIE_0_WheelieBob.WheelieBob up for play (max tick rate 0) at 2025.09.19-13.36.45
+[2025.09.19-01.36.45:927][128]LogWorld: Bringing up level for play took: 0.000612
+[2025.09.19-01.36.45:929][128]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2025.09.19-01.36.45:931][128]PIE: Server logged in
+[2025.09.19-01.36.45:933][128]PIE: Play in editor total start time 0.128 seconds.
+[2025.09.19-01.36.48:399][337]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.19-01.36.48:399][337]LogWorld: BeginTearingDown for /Game/UEDPIE_0_WheelieBob
+[2025.09.19-01.36.48:399][337]LogWorld: UWorld::CleanupWorld for WheelieBob, bSessionEnded=true, bCleanupResources=true
+[2025.09.19-01.36.48:399][337]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.19-01.36.48:401][337]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.19-01.36.48:405][337]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.19-01.36.48:424][337]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.19-01.36.48:424][337]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2025.09.19-01.36.48:425][337]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=4
+[2025.09.19-01.36.48:427][337]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=2
+[2025.09.19-01.36.48:433][337]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.09.19-01.36.48:497][338]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2025.09.19-01.38.22:956][441]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3538.140381
+[2025.09.19-01.38.23:213][472]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.19-01.38.23:213][472]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3538.389160, Update Interval: 340.317383
+[2025.09.19-01.39.25:636][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.09.19-01.39.25:639][ 33]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/WheelieBob' took 0.024
+[2025.09.19-01.39.25:639][ 33]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/2DMainCharacter] ([2] browsable assets)...
+[2025.09.19-01.39.25:673][ 33]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/2DMainCharacter.2DMainCharacter]
+[2025.09.19-01.39.25:673][ 33]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DMainCharacter]
+[2025.09.19-01.39.25:688][ 33]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/2DMainCharacter_Auto3
+[2025.09.19-01.39.25:688][ 33]LogSavePackage: Moving '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/2DMainCharacter_Auto37D4DB8504C729B69BFC424A0C2EDA277.tmp' to '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/Autosaves/Game/2DMainCharacter_Auto3.uasset'
+[2025.09.19-01.39.25:689][ 33]LogFileHelpers: Auto-saving content packages took 0.050
+[2025.09.19-01.39.27:716][208]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.19-01.39.27:721][208]LogPlayLevel: [PlayLevel] Compiling 2DMainCharacter before play...
+[2025.09.19-01.39.27:766][208]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.09.19-01.39.27:769][208]LogPlayLevel: PlayLevel: Blueprint regeneration took 48 ms (1 blueprints)
+[2025.09.19-01.39.27:769][208]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_WheelieBob
+[2025.09.19-01.39.27:771][208]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001551s)
+[2025.09.19-01.39.27:771][208]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WheelieBob.WheelieBob to /Game/UEDPIE_0_WheelieBob.WheelieBob (0.001580s)
+[2025.09.19-01.39.27:791][208]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.09.19-01.39.27:792][208]LogChaosDD: Creating Chaos Debug Draw Scene for world WheelieBob
+[2025.09.19-01.39.27:793][208]LogPlayLevel: PIE: World Init took: (0.001487s)
+[2025.09.19-01.39.27:794][208]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2025.09.19-01.39.27:794][208]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.19-01.39.27:794][208]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.19-01.39.27:794][208]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.19-01.39.27:794][208]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.19-01.39.27:794][208]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.19-01.39.27:794][208]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.19-01.39.27:794][208]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.19-01.39.27:794][208]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.19-01.39.27:794][208]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.19-01.39.27:794][208]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.19-01.39.27:794][208]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.19-01.39.27:796][208]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.19-01.39.27:846][208]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.09.19-01.39.27:848][208]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.19-01.39.27:848][208]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.19-01.39.27:848][208]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.19-01.39.27:848][208]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2025.09.19-01.39.27:848][208]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2025.09.19-01.39.27:850][208]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2025.09.19-01.39.27:851][208]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2025.09.19-01.39.27:851][208]LogInit: FAudioDevice initialized with ID 7.
+[2025.09.19-01.39.27:851][208]LogAudio: Display: Audio Device (ID: 7) registered with world 'WheelieBob'.
+[2025.09.19-01.39.27:851][208]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2025.09.19-01.39.27:855][208]LogLoad: Game class is '2DGameMode_C'
+[2025.09.19-01.39.27:856][208]LogWorld: Bringing World /Game/UEDPIE_0_WheelieBob.WheelieBob up for play (max tick rate 0) at 2025.09.19-13.39.27
+[2025.09.19-01.39.27:856][208]LogWorld: Bringing up level for play took: 0.000624
+[2025.09.19-01.39.27:858][208]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2025.09.19-01.39.27:860][208]PIE: Server logged in
+[2025.09.19-01.39.27:862][208]PIE: Play in editor total start time 0.141 seconds.
+[2025.09.19-01.39.30:689][445]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.19-01.39.30:689][445]LogWorld: BeginTearingDown for /Game/UEDPIE_0_WheelieBob
+[2025.09.19-01.39.30:689][445]LogWorld: UWorld::CleanupWorld for WheelieBob, bSessionEnded=true, bCleanupResources=true
+[2025.09.19-01.39.30:689][445]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.19-01.39.30:690][445]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.19-01.39.30:694][445]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.19-01.39.30:715][445]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.19-01.39.30:715][445]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2025.09.19-01.39.30:715][445]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=4
+[2025.09.19-01.39.30:716][445]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=2
+[2025.09.19-01.39.30:724][445]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.09.19-01.39.30:821][446]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2025.09.19-01.39.34:129][732]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.19-01.39.34:134][732]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.19-01.39.34:169][732]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_WheelieBob
+[2025.09.19-01.39.34:171][732]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001747s)
+[2025.09.19-01.39.34:171][732]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WheelieBob.WheelieBob to /Game/UEDPIE_0_WheelieBob.WheelieBob (0.001788s)
+[2025.09.19-01.39.34:192][732]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.09.19-01.39.34:194][732]LogChaosDD: Creating Chaos Debug Draw Scene for world WheelieBob
+[2025.09.19-01.39.34:195][732]LogPlayLevel: PIE: World Init took: (0.001473s)
+[2025.09.19-01.39.34:196][732]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2025.09.19-01.39.34:196][732]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.19-01.39.34:196][732]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.19-01.39.34:196][732]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.19-01.39.34:196][732]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.19-01.39.34:196][732]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.19-01.39.34:196][732]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.19-01.39.34:196][732]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.19-01.39.34:196][732]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.19-01.39.34:196][732]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.19-01.39.34:196][732]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.19-01.39.34:196][732]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.19-01.39.34:197][732]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.19-01.39.34:250][732]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.09.19-01.39.34:250][732]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.19-01.39.34:250][732]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.19-01.39.34:250][732]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.19-01.39.34:251][732]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2025.09.19-01.39.34:251][732]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2025.09.19-01.39.34:253][732]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2025.09.19-01.39.34:253][732]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2025.09.19-01.39.34:253][732]LogInit: FAudioDevice initialized with ID 8.
+[2025.09.19-01.39.34:253][732]LogAudio: Display: Audio Device (ID: 8) registered with world 'WheelieBob'.
+[2025.09.19-01.39.34:253][732]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2025.09.19-01.39.34:257][732]LogLoad: Game class is '2DGameMode_C'
+[2025.09.19-01.39.34:257][732]LogWorld: Bringing World /Game/UEDPIE_0_WheelieBob.WheelieBob up for play (max tick rate 0) at 2025.09.19-13.39.34
+[2025.09.19-01.39.34:257][732]LogWorld: Bringing up level for play took: 0.000597
+[2025.09.19-01.39.34:259][732]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2025.09.19-01.39.34:261][732]PIE: Server logged in
+[2025.09.19-01.39.34:263][732]PIE: Play in editor total start time 0.129 seconds.
+[2025.09.19-01.39.42:449][448]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.19-01.39.42:451][448]LogWorld: BeginTearingDown for /Game/UEDPIE_0_WheelieBob
+[2025.09.19-01.39.42:451][448]LogWorld: UWorld::CleanupWorld for WheelieBob, bSessionEnded=true, bCleanupResources=true
+[2025.09.19-01.39.42:451][448]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.19-01.39.42:452][448]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.19-01.39.42:456][448]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.19-01.39.42:482][448]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.19-01.39.42:482][448]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2025.09.19-01.39.42:482][448]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=4
+[2025.09.19-01.39.42:484][448]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=2
+[2025.09.19-01.39.42:491][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.09.19-01.39.42:554][449]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2025.09.19-01.40.49:752][214]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.19-01.40.49:757][214]LogPlayLevel: [PlayLevel] Compiling 2DMainCharacter before play...
+[2025.09.19-01.40.49:803][214]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.09.19-01.40.49:807][214]LogPlayLevel: PlayLevel: Blueprint regeneration took 50 ms (1 blueprints)
+[2025.09.19-01.40.49:807][214]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_WheelieBob
+[2025.09.19-01.40.49:808][214]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001629s)
+[2025.09.19-01.40.49:808][214]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WheelieBob.WheelieBob to /Game/UEDPIE_0_WheelieBob.WheelieBob (0.001660s)
+[2025.09.19-01.40.49:829][214]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.09.19-01.40.49:829][214]LogChaosDD: Creating Chaos Debug Draw Scene for world WheelieBob
+[2025.09.19-01.40.49:831][214]LogPlayLevel: PIE: World Init took: (0.001681s)
+[2025.09.19-01.40.49:833][214]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2025.09.19-01.40.49:833][214]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.19-01.40.49:833][214]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.19-01.40.49:833][214]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.19-01.40.49:833][214]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.19-01.40.49:833][214]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.19-01.40.49:833][214]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.19-01.40.49:833][214]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.19-01.40.49:833][214]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.19-01.40.49:833][214]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.19-01.40.49:833][214]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.19-01.40.49:833][214]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.19-01.40.49:836][214]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.19-01.40.49:886][214]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.09.19-01.40.49:886][214]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.19-01.40.49:886][214]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.19-01.40.49:887][214]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.19-01.40.49:887][214]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2025.09.19-01.40.49:888][214]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2025.09.19-01.40.49:889][214]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2025.09.19-01.40.49:889][214]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2025.09.19-01.40.49:889][214]LogInit: FAudioDevice initialized with ID 9.
+[2025.09.19-01.40.49:889][214]LogAudio: Display: Audio Device (ID: 9) registered with world 'WheelieBob'.
+[2025.09.19-01.40.49:889][214]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2025.09.19-01.40.49:893][214]LogLoad: Game class is '2DGameMode_C'
+[2025.09.19-01.40.49:894][214]LogWorld: Bringing World /Game/UEDPIE_0_WheelieBob.WheelieBob up for play (max tick rate 0) at 2025.09.19-13.40.49
+[2025.09.19-01.40.49:894][214]LogWorld: Bringing up level for play took: 0.000621
+[2025.09.19-01.40.49:896][214]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2025.09.19-01.40.49:898][214]PIE: Server logged in
+[2025.09.19-01.40.49:900][214]PIE: Play in editor total start time 0.144 seconds.
+[2025.09.19-01.40.55:074][670]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.19-01.40.55:074][670]LogWorld: BeginTearingDown for /Game/UEDPIE_0_WheelieBob
+[2025.09.19-01.40.55:074][670]LogWorld: UWorld::CleanupWorld for WheelieBob, bSessionEnded=true, bCleanupResources=true
+[2025.09.19-01.40.55:074][670]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.19-01.40.55:075][670]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.19-01.40.55:079][670]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.19-01.40.55:100][670]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.19-01.40.55:100][670]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2025.09.19-01.40.55:100][670]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=4
+[2025.09.19-01.40.55:102][670]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=2
+[2025.09.19-01.40.55:109][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.09.19-01.40.55:169][671]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2025.09.19-01.40.58:762][998]LogDerivedDataCache: C:/Users/brightandr1/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.09.19-01.41.39:443][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
