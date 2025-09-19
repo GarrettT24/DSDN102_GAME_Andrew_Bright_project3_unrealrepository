@@ -4854,3 +4854,741 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.09.19-02.33.53:830][903]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30, StreamState=2
 [2025.09.19-02.33.53:837][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
 [2025.09.19-02.33.53:885][904]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2025.09.19-02.36.16:133][662]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7011.111816
+[2025.09.19-02.36.16:375][690]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.19-02.36.16:375][690]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7011.345215, Update Interval: 348.603180
+[2025.09.19-02.37.18:802][ 46]LogEditorTransaction: Undo Move Node
+[2025.09.19-02.37.19:336][ 55]LogEditorTransaction: Undo Move Node
+[2025.09.19-02.37.19:840][105]LogEditorTransaction: Undo Rename Node
+[2025.09.19-02.37.20:337][156]LogEditorTransaction: Undo Add Node
+[2025.09.19-02.39.39:378][616]LogEditorTransaction: Undo Delete current selection
+[2025.09.19-02.39.39:766][623]LogEditorTransaction: Undo Delete current selection
+[2025.09.19-02.39.40:065][639]LogEditorTransaction: Undo Move Node
+[2025.09.19-02.39.40:812][720]LogEditorTransaction: Undo Move Node
+[2025.09.19-02.39.41:331][774]LogEditorTransaction: Undo Create Pin Link
+[2025.09.19-02.39.42:084][856]LogEditorTransaction: Undo Delete current selection
+[2025.09.19-02.39.42:729][925]LogEditorTransaction: Undo Add Node
+[2025.09.19-02.39.43:107][962]LogEditorTransaction: Undo Delete current selection
+[2025.09.19-02.40.58:969][991]LogDerivedDataCache: C:/Users/brightandr1/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.09.19-02.42.18:217][219]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.19-02.42.18:246][219]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DMainCharacter] ([2] browsable assets)...
+[2025.09.19-02.42.18:246][219]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DMainCharacter]
+[2025.09.19-02.42.18:246][219]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DMainCharacter" FILE="../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Content/2DMainCharacter.uasset" SILENT=true
+[2025.09.19-02.42.18:264][219]LogSavePackage: Moving output files for package: /Game/2DMainCharacter
+[2025.09.19-02.42.18:264][219]LogSavePackage: Moving '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/2DMainCharacter387B4CCF4F9369B81F6523BE458BF93B.tmp' to '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Content/2DMainCharacter.uasset'
+[2025.09.19-02.42.18:272][219]LogFileHelpers: InternalPromptForCheckoutAndSave took 55.228 ms (total: 2.59 sec)
+[2025.09.19-02.42.18:332][219]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.19-02.42.18:332][219]LogContentValidation: Enabled validators:
+[2025.09.19-02.42.18:332][219]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.19-02.42.18:332][219]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.19-02.42.18:332][219]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.19-02.42.18:332][219]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.19-02.42.18:332][219]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.19-02.42.18:332][219]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.19-02.42.18:332][219]AssetCheck: /Game/2DMainCharacter Validating asset
+[2025.09.19-02.42.19:573][354]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.09.19-02.42.21:450][526]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.19-02.42.21:454][526]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.19-02.42.21:476][526]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_WheelieBob
+[2025.09.19-02.42.21:478][526]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001715s)
+[2025.09.19-02.42.21:478][526]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WheelieBob.WheelieBob to /Game/UEDPIE_0_WheelieBob.WheelieBob (0.001760s)
+[2025.09.19-02.42.21:498][526]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.09.19-02.42.21:502][526]LogChaosDD: Creating Chaos Debug Draw Scene for world WheelieBob
+[2025.09.19-02.42.21:503][526]LogPlayLevel: PIE: World Init took: (0.001691s)
+[2025.09.19-02.42.21:505][526]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2025.09.19-02.42.21:505][526]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.19-02.42.21:505][526]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.19-02.42.21:505][526]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.19-02.42.21:505][526]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.19-02.42.21:505][526]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.19-02.42.21:505][526]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.19-02.42.21:505][526]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.19-02.42.21:505][526]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.19-02.42.21:505][526]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.19-02.42.21:505][526]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.19-02.42.21:505][526]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.19-02.42.21:507][526]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.19-02.42.21:560][526]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.09.19-02.42.21:561][526]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.19-02.42.21:561][526]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.19-02.42.21:561][526]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.19-02.42.21:562][526]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=31
+[2025.09.19-02.42.21:562][526]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=31
+[2025.09.19-02.42.21:563][526]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=31
+[2025.09.19-02.42.21:563][526]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=31
+[2025.09.19-02.42.21:563][526]LogInit: FAudioDevice initialized with ID 31.
+[2025.09.19-02.42.21:563][526]LogAudio: Display: Audio Device (ID: 31) registered with world 'WheelieBob'.
+[2025.09.19-02.42.21:563][526]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 31
+[2025.09.19-02.42.21:568][526]LogLoad: Game class is '2DGameMode_C'
+[2025.09.19-02.42.21:569][526]LogWorld: Bringing World /Game/UEDPIE_0_WheelieBob.WheelieBob up for play (max tick rate 0) at 2025.09.19-14.42.21
+[2025.09.19-02.42.21:569][526]LogWorld: Bringing up level for play took: 0.000624
+[2025.09.19-02.42.21:571][526]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2025.09.19-02.42.21:573][526]PIE: Server logged in
+[2025.09.19-02.42.21:575][526]PIE: Play in editor total start time 0.121 seconds.
+[2025.09.19-02.42.37:137][ 94]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.19-02.42.37:137][ 94]LogWorld: BeginTearingDown for /Game/UEDPIE_0_WheelieBob
+[2025.09.19-02.42.37:137][ 94]LogWorld: UWorld::CleanupWorld for WheelieBob, bSessionEnded=true, bCleanupResources=true
+[2025.09.19-02.42.37:137][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.19-02.42.37:138][ 94]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.19-02.42.37:142][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.19-02.42.37:165][ 94]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.19-02.42.37:165][ 94]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 31
+[2025.09.19-02.42.37:165][ 94]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31, StreamState=4
+[2025.09.19-02.42.37:167][ 94]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31, StreamState=2
+[2025.09.19-02.42.37:173][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.09.19-02.42.37:226][ 95]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2025.09.19-02.42.47:896][299]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7402.963867
+[2025.09.19-02.42.48:156][330]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.19-02.42.48:156][330]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7403.213867, Update Interval: 341.009552
+[2025.09.19-02.45.13:866][497]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.09.19-02.45.14:724][591]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.19-02.45.14:781][591]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DMainCharacter] ([2] browsable assets)...
+[2025.09.19-02.45.14:781][591]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DMainCharacter]
+[2025.09.19-02.45.14:781][591]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DMainCharacter" FILE="../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Content/2DMainCharacter.uasset" SILENT=true
+[2025.09.19-02.45.14:798][591]LogSavePackage: Moving output files for package: /Game/2DMainCharacter
+[2025.09.19-02.45.14:798][591]LogSavePackage: Moving '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/2DMainCharacter703B57C047725DD2751B36BF46771AB8.tmp' to '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Content/2DMainCharacter.uasset'
+[2025.09.19-02.45.14:804][591]LogFileHelpers: InternalPromptForCheckoutAndSave took 80.938 ms (total: 2.67 sec)
+[2025.09.19-02.45.14:860][591]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.19-02.45.14:860][591]LogContentValidation: Enabled validators:
+[2025.09.19-02.45.14:860][591]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.19-02.45.14:860][591]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.19-02.45.14:860][591]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.19-02.45.14:860][591]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.19-02.45.14:860][591]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.19-02.45.14:860][591]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.19-02.45.14:860][591]AssetCheck: /Game/2DMainCharacter Validating asset
+[2025.09.19-02.45.18:035][890]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.19-02.45.18:039][890]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.19-02.45.18:039][890]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_WheelieBob
+[2025.09.19-02.45.18:041][890]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001620s)
+[2025.09.19-02.45.18:041][890]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WheelieBob.WheelieBob to /Game/UEDPIE_0_WheelieBob.WheelieBob (0.001650s)
+[2025.09.19-02.45.18:064][890]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.09.19-02.45.18:068][890]LogChaosDD: Creating Chaos Debug Draw Scene for world WheelieBob
+[2025.09.19-02.45.18:069][890]LogPlayLevel: PIE: World Init took: (0.001590s)
+[2025.09.19-02.45.18:070][890]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2025.09.19-02.45.18:070][890]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.19-02.45.18:070][890]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.19-02.45.18:070][890]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.19-02.45.18:070][890]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.19-02.45.18:070][890]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.19-02.45.18:070][890]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.19-02.45.18:070][890]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.19-02.45.18:070][890]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.19-02.45.18:070][890]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.19-02.45.18:070][890]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.19-02.45.18:070][890]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.19-02.45.18:072][890]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.19-02.45.18:126][890]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.09.19-02.45.18:127][890]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.19-02.45.18:127][890]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.19-02.45.18:127][890]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.19-02.45.18:127][890]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=32
+[2025.09.19-02.45.18:127][890]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=32
+[2025.09.19-02.45.18:129][890]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=32
+[2025.09.19-02.45.18:129][890]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=32
+[2025.09.19-02.45.18:129][890]LogInit: FAudioDevice initialized with ID 32.
+[2025.09.19-02.45.18:129][890]LogAudio: Display: Audio Device (ID: 32) registered with world 'WheelieBob'.
+[2025.09.19-02.45.18:129][890]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 32
+[2025.09.19-02.45.18:133][890]LogLoad: Game class is '2DGameMode_C'
+[2025.09.19-02.45.18:133][890]LogWorld: Bringing World /Game/UEDPIE_0_WheelieBob.WheelieBob up for play (max tick rate 0) at 2025.09.19-14.45.18
+[2025.09.19-02.45.18:133][890]LogWorld: Bringing up level for play took: 0.000589
+[2025.09.19-02.45.18:135][890]LogOnline: OSS: Created online subsystem instance for: :Context_44
+[2025.09.19-02.45.18:138][890]PIE: Server logged in
+[2025.09.19-02.45.18:139][890]PIE: Play in editor total start time 0.1 seconds.
+[2025.09.19-02.45.24:900][567]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.19-02.45.24:900][567]LogWorld: BeginTearingDown for /Game/UEDPIE_0_WheelieBob
+[2025.09.19-02.45.24:900][567]LogWorld: UWorld::CleanupWorld for WheelieBob, bSessionEnded=true, bCleanupResources=true
+[2025.09.19-02.45.24:900][567]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.19-02.45.24:900][567]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.19-02.45.24:905][567]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.19-02.45.24:925][567]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.19-02.45.24:925][567]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 32
+[2025.09.19-02.45.24:926][567]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32, StreamState=4
+[2025.09.19-02.45.24:928][567]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32, StreamState=2
+[2025.09.19-02.45.24:934][567]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.09.19-02.45.24:998][568]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2025.09.19-02.45.26:124][670]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.19-02.45.26:128][670]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.19-02.45.26:169][670]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_WheelieBob
+[2025.09.19-02.45.26:171][670]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002243s)
+[2025.09.19-02.45.26:171][670]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WheelieBob.WheelieBob to /Game/UEDPIE_0_WheelieBob.WheelieBob (0.002287s)
+[2025.09.19-02.45.26:193][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.09.19-02.45.26:195][670]LogChaosDD: Creating Chaos Debug Draw Scene for world WheelieBob
+[2025.09.19-02.45.26:196][670]LogPlayLevel: PIE: World Init took: (0.001441s)
+[2025.09.19-02.45.26:198][670]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2025.09.19-02.45.26:198][670]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.19-02.45.26:198][670]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.19-02.45.26:198][670]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.19-02.45.26:198][670]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.19-02.45.26:198][670]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.19-02.45.26:198][670]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.19-02.45.26:198][670]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.19-02.45.26:198][670]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.19-02.45.26:198][670]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.19-02.45.26:198][670]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.19-02.45.26:198][670]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.19-02.45.26:200][670]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.19-02.45.26:251][670]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.09.19-02.45.26:251][670]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.19-02.45.26:251][670]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.19-02.45.26:251][670]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.19-02.45.26:252][670]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=33
+[2025.09.19-02.45.26:252][670]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=33
+[2025.09.19-02.45.26:254][670]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=33
+[2025.09.19-02.45.26:254][670]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=33
+[2025.09.19-02.45.26:254][670]LogInit: FAudioDevice initialized with ID 33.
+[2025.09.19-02.45.26:255][670]LogAudio: Display: Audio Device (ID: 33) registered with world 'WheelieBob'.
+[2025.09.19-02.45.26:255][670]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 33
+[2025.09.19-02.45.26:259][670]LogLoad: Game class is '2DGameMode_C'
+[2025.09.19-02.45.26:259][670]LogWorld: Bringing World /Game/UEDPIE_0_WheelieBob.WheelieBob up for play (max tick rate 0) at 2025.09.19-14.45.26
+[2025.09.19-02.45.26:260][670]LogWorld: Bringing up level for play took: 0.000621
+[2025.09.19-02.45.26:261][670]LogOnline: OSS: Created online subsystem instance for: :Context_45
+[2025.09.19-02.45.26:263][670]PIE: Server logged in
+[2025.09.19-02.45.26:265][670]PIE: Play in editor total start time 0.137 seconds.
+[2025.09.19-02.45.55:740][653]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.19-02.45.55:740][653]LogWorld: BeginTearingDown for /Game/UEDPIE_0_WheelieBob
+[2025.09.19-02.45.55:740][653]LogWorld: UWorld::CleanupWorld for WheelieBob, bSessionEnded=true, bCleanupResources=true
+[2025.09.19-02.45.55:740][653]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.19-02.45.55:741][653]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.19-02.45.55:745][653]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.19-02.45.55:766][653]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.19-02.45.55:766][653]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 33
+[2025.09.19-02.45.55:767][653]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33, StreamState=4
+[2025.09.19-02.45.55:768][653]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33, StreamState=2
+[2025.09.19-02.45.55:775][653]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.09.19-02.45.55:839][654]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2025.09.19-02.46.27:211][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.09.19-02.46.28:100][160]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.19-02.46.28:131][160]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DMainCharacter] ([2] browsable assets)...
+[2025.09.19-02.46.28:131][160]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DMainCharacter]
+[2025.09.19-02.46.28:131][160]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DMainCharacter" FILE="../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Content/2DMainCharacter.uasset" SILENT=true
+[2025.09.19-02.46.28:146][160]LogSavePackage: Moving output files for package: /Game/2DMainCharacter
+[2025.09.19-02.46.28:146][160]LogSavePackage: Moving '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/2DMainCharacterE3FF07A74CBE8475908537B32C83D843.tmp' to '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Content/2DMainCharacter.uasset'
+[2025.09.19-02.46.28:155][160]LogFileHelpers: InternalPromptForCheckoutAndSave took 55.059 ms (total: 2.73 sec)
+[2025.09.19-02.46.28:214][160]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.19-02.46.28:214][160]LogContentValidation: Enabled validators:
+[2025.09.19-02.46.28:214][160]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.19-02.46.28:214][160]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.19-02.46.28:214][160]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.19-02.46.28:214][160]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.19-02.46.28:214][160]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.19-02.46.28:214][160]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.19-02.46.28:214][160]AssetCheck: /Game/2DMainCharacter Validating asset
+[2025.09.19-02.46.29:648][307]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.19-02.46.29:652][307]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.19-02.46.29:652][307]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_WheelieBob
+[2025.09.19-02.46.29:654][307]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001590s)
+[2025.09.19-02.46.29:654][307]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WheelieBob.WheelieBob to /Game/UEDPIE_0_WheelieBob.WheelieBob (0.001622s)
+[2025.09.19-02.46.29:683][307]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.09.19-02.46.29:686][307]LogChaosDD: Creating Chaos Debug Draw Scene for world WheelieBob
+[2025.09.19-02.46.29:687][307]LogPlayLevel: PIE: World Init took: (0.001529s)
+[2025.09.19-02.46.29:688][307]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2025.09.19-02.46.29:688][307]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.19-02.46.29:688][307]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.19-02.46.29:688][307]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.19-02.46.29:688][307]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.19-02.46.29:688][307]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.19-02.46.29:688][307]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.19-02.46.29:688][307]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.19-02.46.29:688][307]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.19-02.46.29:688][307]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.19-02.46.29:688][307]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.19-02.46.29:688][307]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.19-02.46.29:690][307]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.19-02.46.29:741][307]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.09.19-02.46.29:742][307]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.19-02.46.29:742][307]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.19-02.46.29:742][307]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.19-02.46.29:742][307]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=34
+[2025.09.19-02.46.29:742][307]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=34
+[2025.09.19-02.46.29:745][307]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=34
+[2025.09.19-02.46.29:745][307]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=34
+[2025.09.19-02.46.29:745][307]LogInit: FAudioDevice initialized with ID 34.
+[2025.09.19-02.46.29:745][307]LogAudio: Display: Audio Device (ID: 34) registered with world 'WheelieBob'.
+[2025.09.19-02.46.29:745][307]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 34
+[2025.09.19-02.46.29:749][307]LogLoad: Game class is '2DGameMode_C'
+[2025.09.19-02.46.29:749][307]LogWorld: Bringing World /Game/UEDPIE_0_WheelieBob.WheelieBob up for play (max tick rate 0) at 2025.09.19-14.46.29
+[2025.09.19-02.46.29:749][307]LogWorld: Bringing up level for play took: 0.000596
+[2025.09.19-02.46.29:751][307]LogOnline: OSS: Created online subsystem instance for: :Context_46
+[2025.09.19-02.46.29:753][307]PIE: Server logged in
+[2025.09.19-02.46.29:755][307]PIE: Play in editor total start time 0.104 seconds.
+[2025.09.19-02.46.41:439][478]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.19-02.46.41:439][478]LogWorld: BeginTearingDown for /Game/UEDPIE_0_WheelieBob
+[2025.09.19-02.46.41:439][478]LogWorld: UWorld::CleanupWorld for WheelieBob, bSessionEnded=true, bCleanupResources=true
+[2025.09.19-02.46.41:439][478]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.19-02.46.41:441][478]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.19-02.46.41:445][478]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.19-02.46.41:467][478]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.19-02.46.41:467][478]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 34
+[2025.09.19-02.46.41:467][478]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34, StreamState=4
+[2025.09.19-02.46.41:468][478]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34, StreamState=2
+[2025.09.19-02.46.41:475][478]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.09.19-02.46.41:541][479]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2025.09.19-02.49.08:258][322]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7783.420898
+[2025.09.19-02.49.08:535][355]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.19-02.49.08:535][355]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7783.689453, Update Interval: 326.311218
+[2025.09.19-02.50.46:864][909]LogBlueprint: Error: [AssetLog] C:\DSDN102_GAME_Andrew_Bright_project3_unrealrepository\Project3\Content\2DMainCharacter.uasset: [Compiler] This blueprint (self) is not a PaperFlipbookComponent, therefore ' Target ' must have a connection.
+[2025.09.19-02.50.46:905][909]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.09.19-02.50.54:327][716]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.09.19-02.50.56:576][929]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.19-02.50.56:582][929]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.19-02.50.56:620][929]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_WheelieBob
+[2025.09.19-02.50.56:622][929]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002047s)
+[2025.09.19-02.50.56:622][929]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WheelieBob.WheelieBob to /Game/UEDPIE_0_WheelieBob.WheelieBob (0.002101s)
+[2025.09.19-02.50.56:646][929]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.09.19-02.50.56:649][929]LogChaosDD: Creating Chaos Debug Draw Scene for world WheelieBob
+[2025.09.19-02.50.56:651][929]LogPlayLevel: PIE: World Init took: (0.001713s)
+[2025.09.19-02.50.56:652][929]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2025.09.19-02.50.56:652][929]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.19-02.50.56:652][929]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.19-02.50.56:652][929]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.19-02.50.56:652][929]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.19-02.50.56:652][929]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.19-02.50.56:652][929]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.19-02.50.56:652][929]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.19-02.50.56:652][929]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.19-02.50.56:652][929]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.19-02.50.56:652][929]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.19-02.50.56:652][929]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.19-02.50.56:654][929]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.19-02.50.56:706][929]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.09.19-02.50.56:707][929]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.19-02.50.56:707][929]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.19-02.50.56:707][929]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.19-02.50.56:707][929]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=35
+[2025.09.19-02.50.56:707][929]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=35
+[2025.09.19-02.50.56:709][929]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=35
+[2025.09.19-02.50.56:709][929]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=35
+[2025.09.19-02.50.56:709][929]LogInit: FAudioDevice initialized with ID 35.
+[2025.09.19-02.50.56:709][929]LogAudio: Display: Audio Device (ID: 35) registered with world 'WheelieBob'.
+[2025.09.19-02.50.56:709][929]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 35
+[2025.09.19-02.50.56:714][929]LogLoad: Game class is '2DGameMode_C'
+[2025.09.19-02.50.56:715][929]LogWorld: Bringing World /Game/UEDPIE_0_WheelieBob.WheelieBob up for play (max tick rate 0) at 2025.09.19-14.50.56
+[2025.09.19-02.50.56:715][929]LogWorld: Bringing up level for play took: 0.000690
+[2025.09.19-02.50.56:717][929]LogOnline: OSS: Created online subsystem instance for: :Context_47
+[2025.09.19-02.50.56:719][929]PIE: Server logged in
+[2025.09.19-02.50.56:721][929]PIE: Play in editor total start time 0.14 seconds.
+[2025.09.19-02.51.03:230][579]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.19-02.51.03:230][579]LogWorld: BeginTearingDown for /Game/UEDPIE_0_WheelieBob
+[2025.09.19-02.51.03:230][579]LogWorld: UWorld::CleanupWorld for WheelieBob, bSessionEnded=true, bCleanupResources=true
+[2025.09.19-02.51.03:230][579]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.19-02.51.03:231][579]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.19-02.51.03:236][579]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.19-02.51.03:263][579]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.19-02.51.03:264][579]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 35
+[2025.09.19-02.51.03:264][579]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35, StreamState=4
+[2025.09.19-02.51.03:265][579]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35, StreamState=2
+[2025.09.19-02.51.03:272][579]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.09.19-02.51.03:336][580]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2025.09.19-02.51.38:090][612]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.19-02.51.38:132][612]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DMainCharacter] ([2] browsable assets)...
+[2025.09.19-02.51.38:132][612]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DMainCharacter]
+[2025.09.19-02.51.38:132][612]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DMainCharacter" FILE="../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Content/2DMainCharacter.uasset" SILENT=true
+[2025.09.19-02.51.38:149][612]LogSavePackage: Moving output files for package: /Game/2DMainCharacter
+[2025.09.19-02.51.38:151][612]LogSavePackage: Moving '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/2DMainCharacter303E781D4687FA74F415CC843226ED8B.tmp' to '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Content/2DMainCharacter.uasset'
+[2025.09.19-02.51.38:157][612]LogFileHelpers: InternalPromptForCheckoutAndSave took 66.736 ms (total: 2.79 sec)
+[2025.09.19-02.51.38:200][612]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.19-02.51.38:200][612]LogContentValidation: Enabled validators:
+[2025.09.19-02.51.38:200][612]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.19-02.51.38:200][612]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.19-02.51.38:200][612]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.19-02.51.38:200][612]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.19-02.51.38:200][612]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.19-02.51.38:200][612]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.19-02.51.38:200][612]AssetCheck: /Game/2DMainCharacter Validating asset
+[2025.09.19-02.51.39:217][721]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.09.19-02.51.40:629][854]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.19-02.51.40:634][854]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.19-02.51.40:669][854]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_WheelieBob
+[2025.09.19-02.51.40:671][854]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001632s)
+[2025.09.19-02.51.40:671][854]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WheelieBob.WheelieBob to /Game/UEDPIE_0_WheelieBob.WheelieBob (0.001671s)
+[2025.09.19-02.51.40:692][854]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.09.19-02.51.40:695][854]LogChaosDD: Creating Chaos Debug Draw Scene for world WheelieBob
+[2025.09.19-02.51.40:697][854]LogPlayLevel: PIE: World Init took: (0.001468s)
+[2025.09.19-02.51.40:697][854]LogAudio: Display: Creating Audio Device:                 Id: 36, Scope: Unique, Realtime: True
+[2025.09.19-02.51.40:697][854]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.19-02.51.40:697][854]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.19-02.51.40:697][854]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.19-02.51.40:697][854]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.19-02.51.40:697][854]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.19-02.51.40:697][854]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.19-02.51.40:697][854]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.19-02.51.40:697][854]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.19-02.51.40:697][854]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.19-02.51.40:697][854]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.19-02.51.40:697][854]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.19-02.51.40:699][854]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.19-02.51.40:752][854]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.09.19-02.51.40:752][854]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.19-02.51.40:752][854]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.19-02.51.40:752][854]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.19-02.51.40:752][854]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=36
+[2025.09.19-02.51.40:752][854]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=36
+[2025.09.19-02.51.40:755][854]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=36
+[2025.09.19-02.51.40:755][854]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=36
+[2025.09.19-02.51.40:755][854]LogInit: FAudioDevice initialized with ID 36.
+[2025.09.19-02.51.40:755][854]LogAudio: Display: Audio Device (ID: 36) registered with world 'WheelieBob'.
+[2025.09.19-02.51.40:755][854]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 36
+[2025.09.19-02.51.40:758][854]LogLoad: Game class is '2DGameMode_C'
+[2025.09.19-02.51.40:759][854]LogWorld: Bringing World /Game/UEDPIE_0_WheelieBob.WheelieBob up for play (max tick rate 0) at 2025.09.19-14.51.40
+[2025.09.19-02.51.40:759][854]LogWorld: Bringing up level for play took: 0.000593
+[2025.09.19-02.51.40:761][854]LogOnline: OSS: Created online subsystem instance for: :Context_48
+[2025.09.19-02.51.40:763][854]PIE: Server logged in
+[2025.09.19-02.51.40:765][854]PIE: Play in editor total start time 0.132 seconds.
+[2025.09.19-02.51.50:500][829]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.19-02.51.50:500][829]LogWorld: BeginTearingDown for /Game/UEDPIE_0_WheelieBob
+[2025.09.19-02.51.50:500][829]LogWorld: UWorld::CleanupWorld for WheelieBob, bSessionEnded=true, bCleanupResources=true
+[2025.09.19-02.51.50:500][829]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.19-02.51.50:501][829]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.19-02.51.50:505][829]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.19-02.51.50:527][829]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.19-02.51.50:527][829]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 36
+[2025.09.19-02.51.50:527][829]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36, StreamState=4
+[2025.09.19-02.51.50:530][829]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36, StreamState=2
+[2025.09.19-02.51.50:536][829]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.09.19-02.51.50:599][830]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2025.09.19-02.52.54:328][229]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.19-02.52.54:370][229]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DMainCharacter] ([2] browsable assets)...
+[2025.09.19-02.52.54:370][229]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DMainCharacter]
+[2025.09.19-02.52.54:370][229]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DMainCharacter" FILE="../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Content/2DMainCharacter.uasset" SILENT=true
+[2025.09.19-02.52.54:386][229]LogSavePackage: Moving output files for package: /Game/2DMainCharacter
+[2025.09.19-02.52.54:386][229]LogSavePackage: Moving '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/2DMainCharacter6086D2C7426DDADCED172EA62619F0BA.tmp' to '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Content/2DMainCharacter.uasset'
+[2025.09.19-02.52.54:393][229]LogFileHelpers: InternalPromptForCheckoutAndSave took 64.827 ms (total: 2.86 sec)
+[2025.09.19-02.52.54:437][229]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.19-02.52.54:437][229]LogContentValidation: Enabled validators:
+[2025.09.19-02.52.54:437][229]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.19-02.52.54:437][229]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.19-02.52.54:437][229]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.19-02.52.54:437][229]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.19-02.52.54:437][229]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.19-02.52.54:438][229]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.19-02.52.54:438][229]AssetCheck: /Game/2DMainCharacter Validating asset
+[2025.09.19-02.52.55:359][333]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.09.19-02.52.58:337][635]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.19-02.52.58:341][635]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.19-02.52.58:370][635]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_WheelieBob
+[2025.09.19-02.52.58:373][635]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001709s)
+[2025.09.19-02.52.58:373][635]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WheelieBob.WheelieBob to /Game/UEDPIE_0_WheelieBob.WheelieBob (0.001750s)
+[2025.09.19-02.52.58:394][635]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.09.19-02.52.58:397][635]LogChaosDD: Creating Chaos Debug Draw Scene for world WheelieBob
+[2025.09.19-02.52.58:399][635]LogPlayLevel: PIE: World Init took: (0.001686s)
+[2025.09.19-02.52.58:399][635]LogAudio: Display: Creating Audio Device:                 Id: 37, Scope: Unique, Realtime: True
+[2025.09.19-02.52.58:399][635]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.19-02.52.58:399][635]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.19-02.52.58:399][635]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.19-02.52.58:399][635]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.19-02.52.58:399][635]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.19-02.52.58:399][635]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.19-02.52.58:399][635]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.19-02.52.58:399][635]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.19-02.52.58:399][635]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.19-02.52.58:399][635]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.19-02.52.58:399][635]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.19-02.52.58:402][635]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.19-02.52.58:455][635]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.09.19-02.52.58:455][635]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.19-02.52.58:455][635]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.19-02.52.58:455][635]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.19-02.52.58:456][635]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=37
+[2025.09.19-02.52.58:456][635]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=37
+[2025.09.19-02.52.58:458][635]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=37
+[2025.09.19-02.52.58:458][635]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=37
+[2025.09.19-02.52.58:458][635]LogInit: FAudioDevice initialized with ID 37.
+[2025.09.19-02.52.58:458][635]LogAudio: Display: Audio Device (ID: 37) registered with world 'WheelieBob'.
+[2025.09.19-02.52.58:458][635]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 37
+[2025.09.19-02.52.58:462][635]LogLoad: Game class is '2DGameMode_C'
+[2025.09.19-02.52.58:463][635]LogWorld: Bringing World /Game/UEDPIE_0_WheelieBob.WheelieBob up for play (max tick rate 0) at 2025.09.19-14.52.58
+[2025.09.19-02.52.58:463][635]LogWorld: Bringing up level for play took: 0.000644
+[2025.09.19-02.52.58:465][635]LogOnline: OSS: Created online subsystem instance for: :Context_49
+[2025.09.19-02.52.58:467][635]PIE: Server logged in
+[2025.09.19-02.52.58:469][635]PIE: Play in editor total start time 0.128 seconds.
+[2025.09.19-02.53.03:722][156]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.19-02.53.03:722][156]LogWorld: BeginTearingDown for /Game/UEDPIE_0_WheelieBob
+[2025.09.19-02.53.03:722][156]LogWorld: UWorld::CleanupWorld for WheelieBob, bSessionEnded=true, bCleanupResources=true
+[2025.09.19-02.53.03:722][156]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.19-02.53.03:723][156]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.19-02.53.03:727][156]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.19-02.53.03:748][156]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.19-02.53.03:748][156]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 37
+[2025.09.19-02.53.03:748][156]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37, StreamState=4
+[2025.09.19-02.53.03:750][156]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37, StreamState=2
+[2025.09.19-02.53.03:756][156]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.09.19-02.53.03:820][157]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2025.09.19-02.54.03:332][922]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.09.19-02.54.05:444][123]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.19-02.54.05:449][123]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.19-02.54.05:482][123]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_WheelieBob
+[2025.09.19-02.54.05:484][123]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001618s)
+[2025.09.19-02.54.05:484][123]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WheelieBob.WheelieBob to /Game/UEDPIE_0_WheelieBob.WheelieBob (0.001656s)
+[2025.09.19-02.54.05:512][123]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.09.19-02.54.05:516][123]LogChaosDD: Creating Chaos Debug Draw Scene for world WheelieBob
+[2025.09.19-02.54.05:517][123]LogPlayLevel: PIE: World Init took: (0.001537s)
+[2025.09.19-02.54.05:518][123]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2025.09.19-02.54.05:518][123]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.19-02.54.05:518][123]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.19-02.54.05:518][123]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.19-02.54.05:518][123]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.19-02.54.05:518][123]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.19-02.54.05:518][123]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.19-02.54.05:518][123]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.19-02.54.05:518][123]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.19-02.54.05:518][123]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.19-02.54.05:518][123]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.19-02.54.05:518][123]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.19-02.54.05:520][123]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.19-02.54.05:572][123]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.09.19-02.54.05:572][123]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.19-02.54.05:572][123]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.19-02.54.05:572][123]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.19-02.54.05:573][123]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=38
+[2025.09.19-02.54.05:573][123]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=38
+[2025.09.19-02.54.05:575][123]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=38
+[2025.09.19-02.54.05:575][123]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=38
+[2025.09.19-02.54.05:575][123]LogInit: FAudioDevice initialized with ID 38.
+[2025.09.19-02.54.05:575][123]LogAudio: Display: Audio Device (ID: 38) registered with world 'WheelieBob'.
+[2025.09.19-02.54.05:576][123]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 38
+[2025.09.19-02.54.05:579][123]LogLoad: Game class is '2DGameMode_C'
+[2025.09.19-02.54.05:580][123]LogWorld: Bringing World /Game/UEDPIE_0_WheelieBob.WheelieBob up for play (max tick rate 0) at 2025.09.19-14.54.05
+[2025.09.19-02.54.05:580][123]LogWorld: Bringing up level for play took: 0.000603
+[2025.09.19-02.54.05:582][123]LogOnline: OSS: Created online subsystem instance for: :Context_50
+[2025.09.19-02.54.05:584][123]PIE: Server logged in
+[2025.09.19-02.54.05:586][123]PIE: Play in editor total start time 0.138 seconds.
+[2025.09.19-02.54.17:864][358]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.19-02.54.17:864][358]LogWorld: BeginTearingDown for /Game/UEDPIE_0_WheelieBob
+[2025.09.19-02.54.17:864][358]LogWorld: UWorld::CleanupWorld for WheelieBob, bSessionEnded=true, bCleanupResources=true
+[2025.09.19-02.54.17:864][358]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.19-02.54.17:865][358]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.19-02.54.17:869][358]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.19-02.54.17:889][358]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.19-02.54.17:889][358]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 38
+[2025.09.19-02.54.17:889][358]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38, StreamState=4
+[2025.09.19-02.54.17:890][358]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38, StreamState=2
+[2025.09.19-02.54.17:898][358]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.09.19-02.54.17:961][359]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2025.09.19-02.54.37:637][631]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.19-02.54.37:696][631]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DMainCharacter] ([2] browsable assets)...
+[2025.09.19-02.54.37:696][631]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DMainCharacter]
+[2025.09.19-02.54.37:696][631]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DMainCharacter" FILE="../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Content/2DMainCharacter.uasset" SILENT=true
+[2025.09.19-02.54.37:711][631]LogSavePackage: Moving output files for package: /Game/2DMainCharacter
+[2025.09.19-02.54.37:711][631]LogSavePackage: Moving '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/2DMainCharacter0C12224B44EEDD469E867B9A4A65B2D0.tmp' to '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Content/2DMainCharacter.uasset'
+[2025.09.19-02.54.37:719][631]LogFileHelpers: InternalPromptForCheckoutAndSave took 81.817 ms (total: 2.94 sec)
+[2025.09.19-02.54.37:762][631]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.19-02.54.37:762][631]LogContentValidation: Enabled validators:
+[2025.09.19-02.54.37:762][631]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.19-02.54.37:762][631]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.19-02.54.37:762][631]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.19-02.54.37:762][631]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.19-02.54.37:762][631]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.19-02.54.37:762][631]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.19-02.54.37:762][631]AssetCheck: /Game/2DMainCharacter Validating asset
+[2025.09.19-02.54.51:112][124]LogBlueprint: Error: [AssetLog] C:\DSDN102_GAME_Andrew_Bright_project3_unrealrepository\Project3\Content\2DMainCharacter.uasset: [Compiler] This blueprint (self) is not a PaperFlipbookComponent, therefore ' Target ' must have a connection.
+[2025.09.19-02.54.51:153][124]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.09.19-02.54.53:067][347]LogEditorTransaction: Undo Delete current selection
+[2025.09.19-02.54.58:970][973]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.19-02.54.58:998][973]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DMainCharacter] ([2] browsable assets)...
+[2025.09.19-02.54.58:998][973]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DMainCharacter]
+[2025.09.19-02.54.58:998][973]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DMainCharacter" FILE="../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Content/2DMainCharacter.uasset" SILENT=true
+[2025.09.19-02.54.59:013][973]LogSavePackage: Moving output files for package: /Game/2DMainCharacter
+[2025.09.19-02.54.59:013][973]LogSavePackage: Moving '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/2DMainCharacter1C63A4E34BF91B6C054DB0ACBF1A4914.tmp' to '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Content/2DMainCharacter.uasset'
+[2025.09.19-02.54.59:021][973]LogFileHelpers: InternalPromptForCheckoutAndSave took 49.855 ms (total: 2.99 sec)
+[2025.09.19-02.54.59:066][973]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.19-02.54.59:066][973]LogContentValidation: Enabled validators:
+[2025.09.19-02.54.59:066][973]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.19-02.54.59:066][973]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.19-02.54.59:067][973]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.19-02.54.59:067][973]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.19-02.54.59:067][973]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.19-02.54.59:067][973]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.19-02.54.59:067][973]AssetCheck: /Game/2DMainCharacter Validating asset
+[2025.09.19-02.54.59:719][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.09.19-02.55.05:233][621]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.19-02.55.05:238][621]LogPlayLevel: [PlayLevel] Compiling 2DMainCharacter before play...
+[2025.09.19-02.55.05:287][621]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.09.19-02.55.05:290][621]LogPlayLevel: PlayLevel: Blueprint regeneration took 52 ms (1 blueprints)
+[2025.09.19-02.55.05:290][621]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_WheelieBob
+[2025.09.19-02.55.05:292][621]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001613s)
+[2025.09.19-02.55.05:292][621]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WheelieBob.WheelieBob to /Game/UEDPIE_0_WheelieBob.WheelieBob (0.001646s)
+[2025.09.19-02.55.05:314][621]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.09.19-02.55.05:315][621]LogChaosDD: Creating Chaos Debug Draw Scene for world WheelieBob
+[2025.09.19-02.55.05:316][621]LogPlayLevel: PIE: World Init took: (0.001461s)
+[2025.09.19-02.55.05:317][621]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2025.09.19-02.55.05:317][621]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.19-02.55.05:317][621]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.19-02.55.05:317][621]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.19-02.55.05:317][621]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.19-02.55.05:317][621]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.19-02.55.05:317][621]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.19-02.55.05:317][621]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.19-02.55.05:317][621]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.19-02.55.05:317][621]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.19-02.55.05:317][621]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.19-02.55.05:317][621]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.19-02.55.05:318][621]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.19-02.55.05:372][621]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.09.19-02.55.05:373][621]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.19-02.55.05:373][621]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.19-02.55.05:373][621]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.19-02.55.05:373][621]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=39
+[2025.09.19-02.55.05:373][621]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=39
+[2025.09.19-02.55.05:376][621]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=39
+[2025.09.19-02.55.05:376][621]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=39
+[2025.09.19-02.55.05:376][621]LogInit: FAudioDevice initialized with ID 39.
+[2025.09.19-02.55.05:376][621]LogAudio: Display: Audio Device (ID: 39) registered with world 'WheelieBob'.
+[2025.09.19-02.55.05:376][621]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 39
+[2025.09.19-02.55.05:379][621]LogLoad: Game class is '2DGameMode_C'
+[2025.09.19-02.55.05:380][621]LogWorld: Bringing World /Game/UEDPIE_0_WheelieBob.WheelieBob up for play (max tick rate 0) at 2025.09.19-14.55.05
+[2025.09.19-02.55.05:380][621]LogWorld: Bringing up level for play took: 0.000655
+[2025.09.19-02.55.05:383][621]LogOnline: OSS: Created online subsystem instance for: :Context_51
+[2025.09.19-02.55.05:385][621]PIE: Server logged in
+[2025.09.19-02.55.05:387][621]PIE: Play in editor total start time 0.149 seconds.
+[2025.09.19-02.55.09:134][991]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.19-02.55.09:135][991]LogWorld: BeginTearingDown for /Game/UEDPIE_0_WheelieBob
+[2025.09.19-02.55.09:135][991]LogWorld: UWorld::CleanupWorld for WheelieBob, bSessionEnded=true, bCleanupResources=true
+[2025.09.19-02.55.09:135][991]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.19-02.55.09:136][991]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.19-02.55.09:140][991]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.19-02.55.09:161][991]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.19-02.55.09:162][991]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 39
+[2025.09.19-02.55.09:162][991]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39, StreamState=4
+[2025.09.19-02.55.09:163][991]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39, StreamState=2
+[2025.09.19-02.55.09:172][991]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.09.19-02.55.09:238][992]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2025.09.19-02.55.11:384][212]LogEditorTransaction: Undo Delete current selection
+[2025.09.19-02.55.33:303][763]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8168.531738
+[2025.09.19-02.55.33:562][794]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.19-02.55.33:562][795]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8168.780762, Update Interval: 334.864349
+[2025.09.19-02.57.02:687][109]LogSlate: External Image Picker: DecompressImage failed
+[2025.09.19-02.57.49:174][831]LogSlate: Window 'Project Settings' being destroyed
+[2025.09.19-02.57.49:183][831]LogSlate: Window 'Project Settings' being destroyed
+[2025.09.19-02.58.11:128][220]LogEditorTransaction: Undo Add Node
+[2025.09.19-02.58.39:740][328]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.19-02.58.39:799][328]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DMainCharacter] ([2] browsable assets)...
+[2025.09.19-02.58.39:799][328]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DMainCharacter]
+[2025.09.19-02.58.39:799][328]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DMainCharacter" FILE="../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Content/2DMainCharacter.uasset" SILENT=true
+[2025.09.19-02.58.39:816][328]LogSavePackage: Moving output files for package: /Game/2DMainCharacter
+[2025.09.19-02.58.39:816][328]LogSavePackage: Moving '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/2DMainCharacter7396A39F44965BE28227EDA4C3D7ACCF.tmp' to '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Content/2DMainCharacter.uasset'
+[2025.09.19-02.58.39:824][328]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.871 ms (total: 3.07 sec)
+[2025.09.19-02.58.39:885][328]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.19-02.58.39:885][328]LogContentValidation: Enabled validators:
+[2025.09.19-02.58.39:886][328]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.19-02.58.39:886][328]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.19-02.58.39:886][328]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.19-02.58.39:886][328]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.19-02.58.39:886][328]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.19-02.58.39:886][328]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.19-02.58.39:886][328]AssetCheck: /Game/2DMainCharacter Validating asset
+[2025.09.19-02.58.40:995][451]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.09.19-02.58.42:925][633]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.19-02.58.42:929][633]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.19-02.58.42:949][633]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_WheelieBob
+[2025.09.19-02.58.42:951][633]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001738s)
+[2025.09.19-02.58.42:951][633]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WheelieBob.WheelieBob to /Game/UEDPIE_0_WheelieBob.WheelieBob (0.001780s)
+[2025.09.19-02.58.42:974][633]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.09.19-02.58.42:977][633]LogChaosDD: Creating Chaos Debug Draw Scene for world WheelieBob
+[2025.09.19-02.58.42:978][633]LogPlayLevel: PIE: World Init took: (0.001619s)
+[2025.09.19-02.58.42:979][633]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2025.09.19-02.58.42:979][633]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.19-02.58.42:979][633]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.19-02.58.42:979][633]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.19-02.58.42:979][633]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.19-02.58.42:979][633]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.19-02.58.42:979][633]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.19-02.58.42:979][633]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.19-02.58.42:979][633]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.19-02.58.42:979][633]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.19-02.58.42:979][633]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.19-02.58.42:979][633]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.19-02.58.42:983][633]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.19-02.58.43:036][633]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.09.19-02.58.43:036][633]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.19-02.58.43:036][633]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.19-02.58.43:036][633]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.19-02.58.43:036][633]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=40
+[2025.09.19-02.58.43:036][633]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=40
+[2025.09.19-02.58.43:038][633]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=40
+[2025.09.19-02.58.43:038][633]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=40
+[2025.09.19-02.58.43:038][633]LogInit: FAudioDevice initialized with ID 40.
+[2025.09.19-02.58.43:038][633]LogAudio: Display: Audio Device (ID: 40) registered with world 'WheelieBob'.
+[2025.09.19-02.58.43:038][633]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 40
+[2025.09.19-02.58.43:043][633]LogLoad: Game class is '2DGameMode_C'
+[2025.09.19-02.58.43:043][633]LogWorld: Bringing World /Game/UEDPIE_0_WheelieBob.WheelieBob up for play (max tick rate 0) at 2025.09.19-14.58.43
+[2025.09.19-02.58.43:043][633]LogWorld: Bringing up level for play took: 0.000612
+[2025.09.19-02.58.43:046][633]LogOnline: OSS: Created online subsystem instance for: :Context_52
+[2025.09.19-02.58.43:047][633]PIE: Server logged in
+[2025.09.19-02.58.43:049][633]PIE: Play in editor total start time 0.121 seconds.
+[2025.09.19-02.58.49:990][325]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.19-02.58.49:990][325]LogWorld: BeginTearingDown for /Game/UEDPIE_0_WheelieBob
+[2025.09.19-02.58.49:990][325]LogWorld: UWorld::CleanupWorld for WheelieBob, bSessionEnded=true, bCleanupResources=true
+[2025.09.19-02.58.49:990][325]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.19-02.58.49:991][325]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.19-02.58.49:995][325]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.19-02.58.50:018][325]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.19-02.58.50:018][325]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 40
+[2025.09.19-02.58.50:018][325]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40, StreamState=4
+[2025.09.19-02.58.50:020][325]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40, StreamState=2
+[2025.09.19-02.58.50:027][325]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.09.19-02.58.50:091][326]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2025.09.19-02.59.07:263][246]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.09.19-02.59.08:909][398]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.19-02.59.08:915][398]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.19-02.59.08:940][398]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_WheelieBob
+[2025.09.19-02.59.08:941][398]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001687s)
+[2025.09.19-02.59.08:941][398]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WheelieBob.WheelieBob to /Game/UEDPIE_0_WheelieBob.WheelieBob (0.001729s)
+[2025.09.19-02.59.08:962][398]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.09.19-02.59.08:966][398]LogChaosDD: Creating Chaos Debug Draw Scene for world WheelieBob
+[2025.09.19-02.59.08:967][398]LogPlayLevel: PIE: World Init took: (0.001501s)
+[2025.09.19-02.59.08:968][398]LogAudio: Display: Creating Audio Device:                 Id: 41, Scope: Unique, Realtime: True
+[2025.09.19-02.59.08:968][398]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.19-02.59.08:968][398]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.19-02.59.08:968][398]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.19-02.59.08:968][398]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.19-02.59.08:968][398]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.19-02.59.08:968][398]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.19-02.59.08:968][398]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.19-02.59.08:968][398]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.19-02.59.08:968][398]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.19-02.59.08:968][398]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.19-02.59.08:968][398]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.19-02.59.08:971][398]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.19-02.59.09:022][398]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.09.19-02.59.09:022][398]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.19-02.59.09:022][398]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.19-02.59.09:022][398]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.19-02.59.09:022][398]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=41
+[2025.09.19-02.59.09:022][398]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=41
+[2025.09.19-02.59.09:024][398]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=41
+[2025.09.19-02.59.09:025][398]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=41
+[2025.09.19-02.59.09:025][398]LogInit: FAudioDevice initialized with ID 41.
+[2025.09.19-02.59.09:025][398]LogAudio: Display: Audio Device (ID: 41) registered with world 'WheelieBob'.
+[2025.09.19-02.59.09:025][398]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 41
+[2025.09.19-02.59.09:029][398]LogLoad: Game class is '2DGameMode_C'
+[2025.09.19-02.59.09:029][398]LogWorld: Bringing World /Game/UEDPIE_0_WheelieBob.WheelieBob up for play (max tick rate 0) at 2025.09.19-14.59.09
+[2025.09.19-02.59.09:029][398]LogWorld: Bringing up level for play took: 0.000594
+[2025.09.19-02.59.09:032][398]LogOnline: OSS: Created online subsystem instance for: :Context_53
+[2025.09.19-02.59.09:034][398]PIE: Server logged in
+[2025.09.19-02.59.09:036][398]PIE: Play in editor total start time 0.121 seconds.
+[2025.09.19-02.59.23:601][865]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.19-02.59.23:601][865]LogWorld: BeginTearingDown for /Game/UEDPIE_0_WheelieBob
+[2025.09.19-02.59.23:601][865]LogWorld: UWorld::CleanupWorld for WheelieBob, bSessionEnded=true, bCleanupResources=true
+[2025.09.19-02.59.23:601][865]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.19-02.59.23:602][865]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.19-02.59.23:606][865]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.19-02.59.23:626][865]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.19-02.59.23:626][865]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 41
+[2025.09.19-02.59.23:627][865]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41, StreamState=4
+[2025.09.19-02.59.23:629][865]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41, StreamState=2
+[2025.09.19-02.59.23:635][865]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.09.19-02.59.23:698][866]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2025.09.19-03.01.01:755][279]LogSlate: External Image Picker: DecompressImage failed
+[2025.09.19-03.01.20:910][144]LogSlate: Window 'Project Settings' being destroyed
+[2025.09.19-03.01.20:917][144]LogSlate: Window 'Project Settings' being destroyed
+[2025.09.19-03.01.52:724][838]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8547.951172
+[2025.09.19-03.01.52:965][864]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.19-03.01.52:965][865]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8548.183594, Update Interval: 315.813477
+[2025.09.19-03.03.00:045][807]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.09.19-03.03.00:047][807]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/WheelieBob' took 0.028
+[2025.09.19-03.03.00:047][807]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DMainCharacter] ([2] browsable assets)...
+[2025.09.19-03.03.00:047][807]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DMainCharacter]
+[2025.09.19-03.03.00:062][807]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/2DMainCharacter_Auto8
+[2025.09.19-03.03.00:062][807]LogSavePackage: Moving '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/2DMainCharacter_Auto8A5BFD77C4D347E5DF139748545053D95.tmp' to '../../../../../../DSDN102_GAME_Andrew_Bright_project3_unrealrepository/Project3/Saved/Autosaves/Game/2DMainCharacter_Auto8.uasset'
+[2025.09.19-03.03.00:062][807]LogFileHelpers: Auto-saving content packages took 0.016
